@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="cgapp logo" src="https://raw.githubusercontent.com/CossyCossy/liyana-hotel/master/src/assets/gitimages/react.png" width="224px"/><br/>
-  Liyana Web App
+  Liyana Hotel Web App
 </h1>
 <p align="center">Liyana Hotel is a simple web app that shows how to make an api call to Sun Hotels search api and be able to search for available accomodation in a given destination with several query parameters. Additionally, since the Sun Hotels APIs are SOAP based i.e XML, the project also shows how to consume soap results and convert them into readable json format. The web app has been built using <b>React</b> and <b>Tailwind Css</b>.</p>
 
