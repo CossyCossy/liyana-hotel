@@ -12,7 +12,7 @@ target="_blank"><img src="https://img.shields.io/badge/Tailwind%20Css-v1-red?sty
 
  <br />
 
-# 🧐 Project Design
+# Screenshots
 
 - Screen one
 <div align="row">
@@ -24,8 +24,8 @@ target="_blank"><img src="https://img.shields.io/badge/Tailwind%20Css-v1-red?sty
 <img alt="cgapp logo" src="https://raw.githubusercontent.com/CossyCossy/liyana-hotel/master/src/assets/gitimages/2.png"  width="800px" height="400px"/>
 </div>
 
-# 📒 Getting Started
-This project was build using React [React](https://reactjs.org/docs/create-a-new-react-app.html) and [Tailwind Css](https://tailwindcss.com/docs/guides/create-react-app)
+# How to run the app
+This app was built using React [React](https://reactjs.org/docs/create-a-new-react-app.html) and [Tailwind Css](https://tailwindcss.com/docs/guides/create-react-app)
 
 Clone the repository:
 ```
@@ -40,46 +40,14 @@ Install the project dependancies:
 ``` 
 $ npm install
 ```
-This will install all the project dependencies.
 
-Run the project:
+Run the app:
 ``` 
 $ npm start
 ```
 This will run the app in the development mode. Open [http://localhost:3000](http://localhost:3000)) to view it in your browser.
 
-# 👨‍💻 Tech stack
 
-Here's a brief overview of the tech stack the app is built on.:
+# Author
 
-- 🚨This project uses the [React](https://reactjs.org/docs/create-a-new-react-app.html) and [Tailwind Css](https://tailwindcss.com/docs/guides/create-react-app).
-
-# ✍️ Contributing
-
-Interested in contributing to the Liyana Hotel Web App project? Thanks so much for your interest! We are always looking for improvements to the project and contributions from open-source developers are greatly appreciated.
-
-# 🌟 Spread the word!
-
-If you want to say thank you and/or support active development of the Liyana Hotel Web App:
-
-- Add a GitHub Star to the project!
-- Check out our website [Crunch Garage](https://crunchgarage.com/) and [GitHub](https://github.com/Crunch-Garage)
- 
-
-Thanks so much for your interest in growing the reach of the Liyana Hotel Web app!
-
-_**PS:** consider sharing and following our organization ([Crunch Garage](https://github.com/Crunch-Garage)) to continue the development of this project on [Liyana Hotel Web App](https://github.com/CossyCossy/liyana-hotel) :)_
-
-# ⚠️ License
-
-The Liyana Hotel Web App project is free and open-source software licensed under the GNU General Public License v3.0. All designs were created by [Crunch Garage](https://crunchgarage.com/) and distributed under [MIT](./LICENSE).
-
-
-# 🥷 Author
-
-Cosmas Mbuvi | [Crunch Garage Homepage](https://crunchgarage.com)
-
-# 🍾 Cheers!
-
-Reminder that *you are great, you are enough, and your presence is valued.* If you are struggling with your mental health, please reach out to someone you love and consult a professional. [There are many resources for you to get help in a time of need.](https://www.nimh.nih.gov/health/find-help)
-
+Cosmas Mbuvi | [Crunch Garage](https://crunchgarage.com)
