@@ -1,0 +1,4567 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<searchresult xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xml.sunhotels.net/15/">
+<hotels>
+<hotel xsi:type="StaticHotel">
+<hotel.id>74595</hotel.id>
+<destination_id>695</destination_id>
+<resort_id>31811</resort_id>
+<transfer>0</transfer>
+<roomtypes>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>1020</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>73909812</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">8220</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>73910571</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">9547</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Double room</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>1049</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>79273844</id>
+<beds>2</beds>
+<extrabeds>1</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">9878</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>79273853</id>
+<beds>2</beds>
+<extrabeds>1</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">10542</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Family room</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+</roomtypes>
+<notes/>
+<distance xsi:nil="true"/>
+<codes/>
+<type>Hotel</type>
+<name>B&B Hotel Barcelona Sant Cugat</name>
+<hotel.addr.1>Cami de Can Camps 15-17</hotel.addr.1>
+<hotel.addr.2/>
+<hotel.addr.zip>08174</hotel.addr.zip>
+<hotel.addr.city>Sant Cugat del Valles</hotel.addr.city>
+<hotel.addr.state/>
+<hotel.addr.country>Spain</hotel.addr.country>
+<hotel.addr.countrycode>ES</hotel.addr.countrycode>
+<hotel.address>Cami de Can Camps 15-17 08174 Sant Cugat del Valles Spain</hotel.address>
+<hotel.mapurl>This feature is deprecated. We apologize for any inconvenience this may cause.</hotel.mapurl>
+<headline>With a stay at B&B Hotel Barcelona Sant Cugat, you'll be convenient to Sant Cugat High Performance Training Centre and Golf Sant Joan</headline>
+<description>With a stay at B&B Hotel Barcelona Sant Cugat , you'll be convenient to Sant Cugat High Performance Training Centre and Golf Sant Joan. This hotel is within close proximity of Autonomous University of Barcelona and Parc Tecnologic del Valles.Rooms Make yourself at home in one of the 96 air-conditioned rooms featuring refrigerators and microwaves. Complimentary wireless Internet access keeps you connected, and flat-screen televisions are provided for your entertainment. Bathrooms have bathtubs or showers and complimentary toiletries. Conveniences include phones, as well as desks and blackout drapes/curtains. Take advantage of recreation opportunities such as a complimentary wireless Internet access and concierge services.Dining Buffet breakfasts are available daily for a fee.Business, Other Amenities Featured amenities include a 24-hour front desk, and multilingual staff. Free self parking is available onsite. Pets are allowed on request. Chargeable per pet/day to be paid directly at reception. Please note that the hotel now accepts American Express as a form of payment.</description>
+<resort>Sant Cugat del Valles</resort>
+<destination>Barcelona</destination>
+<themes/>
+<images>
+<image id="21419352">
+<fullSizeImage url="?id=21419352&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419352" height="333" width="500"/>
+</image>
+<image id="21419356">
+<fullSizeImage url="?id=21419356&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419356" height="333" width="500"/>
+</image>
+<image id="21419357">
+<fullSizeImage url="?id=21419357&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419357" height="333" width="500"/>
+</image>
+<image id="21419358">
+<fullSizeImage url="?id=21419358&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419358" height="333" width="500"/>
+</image>
+<image id="21419359">
+<fullSizeImage url="?id=21419359&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419359" height="333" width="500"/>
+</image>
+<image id="21419360">
+<fullSizeImage url="?id=21419360&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419360" height="333" width="500"/>
+</image>
+<image id="21419361">
+<fullSizeImage url="?id=21419361&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419361" height="333" width="500"/>
+</image>
+<image id="21419362">
+<fullSizeImage url="?id=21419362&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419362" height="333" width="500"/>
+</image>
+<image id="21419363">
+<fullSizeImage url="?id=21419363&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419363" height="333" width="500"/>
+</image>
+<image id="21419364">
+<fullSizeImage url="?id=21419364&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419364" height="333" width="500"/>
+</image>
+<image id="21419365">
+<fullSizeImage url="?id=21419365&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419365" height="333" width="500"/>
+</image>
+<image id="21419366">
+<fullSizeImage url="?id=21419366&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419366" height="333" width="500"/>
+</image>
+<image id="21419367">
+<fullSizeImage url="?id=21419367&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419367" height="333" width="500"/>
+</image>
+<image id="21419368">
+<fullSizeImage url="?id=21419368&full=1" height="853" width="1280"/>
+<smallImage url="?id=21419368" height="333" width="500"/>
+</image>
+</images>
+<features>
+<feature id="1" name="Air Conditioning"/>
+<feature id="4" name="Elevator"/>
+<feature id="10" name="Telephone"/>
+<feature id="11" name="TV"/>
+<feature id="12" name="Wireless internet"/>
+<feature id="43" name="24hr reception"/>
+<feature id="46" name="Business services"/>
+<feature id="47" name="Car parking"/>
+<feature id="50" name="Concierge facilities"/>
+<feature id="53" name="Disabled facilities"/>
+<feature id="55" name="Garden"/>
+<feature id="58" name="Ironing facilities"/>
+<feature id="59" name="Laundry facilities"/>
+<feature id="60" name="Multilingual staff"/>
+<feature id="61" name="Non-smoking property"/>
+<feature id="63" name="Pets allowed on request"/>
+<feature id="202" name="Complimentary newspaper(s)"/>
+<feature id="203" name="Café"/>
+<feature id="204" name="Dry Cleaning"/>
+</features>
+<classification>3</classification>
+<distanceTypes>
+<distanceType>
+<hotelDistanceTypeId>1</hotelDistanceTypeId>
+<description>Beach</description>
+<distances>
+<distance>
+<distanceInMeters>0</distanceInMeters>
+<placeName xsi:nil="true"/>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+<distanceType>
+<hotelDistanceTypeId>2</hotelDistanceTypeId>
+<description>Centre</description>
+<distances>
+<distance>
+<distanceInMeters>16000</distanceInMeters>
+<placeName xsi:nil="true"/>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+<distanceType>
+<hotelDistanceTypeId>3</hotelDistanceTypeId>
+<description>Airport</description>
+<distances>
+<distance>
+<distanceInMeters>34000</distanceInMeters>
+<placeName>BCN</placeName>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+</distanceTypes>
+<timeZone>01:00</timeZone>
+<isBestBuy>false</isBestBuy>
+</hotel>
+<hotel xsi:type="StaticHotel">
+<hotel.id>433</hotel.id>
+<destination_id>695</destination_id>
+<resort_id>186</resort_id>
+<transfer>1</transfer>
+<roomtypes>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>1177</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>61769606</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">15765</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>93292319</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">19365</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Double room - Superior</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>1371</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>61769598</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">16588</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>93292277</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">20241</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Double room - Executive</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+</roomtypes>
+<notes/>
+<distance xsi:nil="true"/>
+<codes/>
+<type>Hotel</type>
+<name>Balmes</name>
+<hotel.addr.1>Calle de Mallorca, 216</hotel.addr.1>
+<hotel.addr.2/>
+<hotel.addr.zip>08008</hotel.addr.zip>
+<hotel.addr.city>Barcelona</hotel.addr.city>
+<hotel.addr.state/>
+<hotel.addr.country>Spain</hotel.addr.country>
+<hotel.addr.countrycode>ES</hotel.addr.countrycode>
+<hotel.address>Calle de Mallorca, 216 08008 Barcelona Spain</hotel.address>
+<hotel.mapurl>This feature is deprecated. We apologize for any inconvenience this may cause.</hotel.mapurl>
+<headline>Located in Carrer de Mallorca, street crossing Paseo de Gràcia, close to La Rambla and the cathedral.</headline>
+<description>Hotel Balmes is locatedl in the centre of Barcelona. The guest rooms are equipped with air conditioning, Satellite TV, telephone, mini bar, safe and bathroom with hairdryer. The hotel’s facilities include a restaurant, garden bar and sun terrace with pool. Address: Calle Mallorca 216, 08008 Barcelona, Spain</description>
+<resort>Barcelona</resort>
+<destination>Barcelona</destination>
+<themes/>
+<images>
+<image id="10799629">
+<fullSizeImage url="?id=10799629&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799629" height="333" width="500"/>
+</image>
+<image id="10799630">
+<fullSizeImage url="?id=10799630&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799630" height="333" width="500"/>
+</image>
+<image id="10799631">
+<fullSizeImage url="?id=10799631&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799631" height="333" width="500"/>
+</image>
+<image id="10799634">
+<fullSizeImage url="?id=10799634&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799634" height="333" width="500"/>
+</image>
+<image id="10799635">
+<fullSizeImage url="?id=10799635&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799635" height="333" width="500"/>
+</image>
+<image id="10799642">
+<fullSizeImage url="?id=10799642&full=1" height="1280" width="853"/>
+<smallImage url="?id=10799642" height="500" width="333"/>
+</image>
+<image id="10799644">
+<fullSizeImage url="?id=10799644&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799644" height="333" width="500"/>
+</image>
+<image id="10799645">
+<fullSizeImage url="?id=10799645&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799645" height="333" width="500"/>
+</image>
+<image id="10799646">
+<fullSizeImage url="?id=10799646&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799646" height="333" width="500"/>
+</image>
+<image id="10799647">
+<fullSizeImage url="?id=10799647&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799647" height="333" width="500"/>
+</image>
+<image id="10799648">
+<fullSizeImage url="?id=10799648&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799648" height="333" width="500"/>
+</image>
+<image id="10799649">
+<fullSizeImage url="?id=10799649&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799649" height="333" width="500"/>
+</image>
+<image id="10799650">
+<fullSizeImage url="?id=10799650&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799650" height="333" width="500"/>
+</image>
+<image id="10799651">
+<fullSizeImage url="?id=10799651&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799651" height="333" width="500"/>
+</image>
+<image id="10799652">
+<fullSizeImage url="?id=10799652&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799652" height="333" width="500"/>
+</image>
+<image id="10799653">
+<fullSizeImage url="?id=10799653&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799653" height="333" width="500"/>
+</image>
+<image id="10799654">
+<fullSizeImage url="?id=10799654&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799654" height="333" width="500"/>
+</image>
+<image id="10799655">
+<fullSizeImage url="?id=10799655&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799655" height="333" width="500"/>
+</image>
+<image id="10799656">
+<fullSizeImage url="?id=10799656&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799656" height="333" width="500"/>
+</image>
+<image id="10799657">
+<fullSizeImage url="?id=10799657&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799657" height="333" width="500"/>
+</image>
+<image id="10799658">
+<fullSizeImage url="?id=10799658&full=1" height="853" width="1280"/>
+<smallImage url="?id=10799658" height="333" width="500"/>
+</image>
+</images>
+<features>
+<feature id="1" name="Air Conditioning"/>
+<feature id="3" name="Bar"/>
+<feature id="4" name="Elevator"/>
+<feature id="5" name="Pool"/>
+<feature id="6" name="Childrens Pool"/>
+<feature id="7" name="Restaurant"/>
+<feature id="8" name="Safe"/>
+<feature id="10" name="Telephone"/>
+<feature id="11" name="TV"/>
+<feature id="43" name="24hr reception"/>
+<feature id="44" name="Babysitting services"/>
+<feature id="45" name="Breakfast room"/>
+<feature id="46" name="Business services"/>
+<feature id="47" name="Car parking"/>
+<feature id="48" name="Car parking (chargeable)"/>
+<feature id="50" name="Concierge facilities"/>
+<feature id="52" name="Currency exchange"/>
+<feature id="53" name="Disabled facilities"/>
+<feature id="54" name="Free Wi-Fi"/>
+<feature id="55" name="Garden"/>
+<feature id="56" name="Gym/fitness facilities"/>
+<feature id="59" name="Laundry facilities"/>
+<feature id="63" name="Pets allowed on request"/>
+<feature id="64" name="Sauna"/>
+<feature id="68" name="Terrace"/>
+<feature id="202" name="Complimentary newspaper(s)"/>
+<feature id="204" name="Dry Cleaning"/>
+</features>
+<classification>3</classification>
+<distanceTypes>
+<distanceType>
+<hotelDistanceTypeId>2</hotelDistanceTypeId>
+<description>Centre</description>
+<distances>
+<distance>
+<distanceInMeters>0</distanceInMeters>
+<placeName xsi:nil="true"/>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+<distanceType>
+<hotelDistanceTypeId>3</hotelDistanceTypeId>
+<description>Airport</description>
+<distances>
+<distance>
+<distanceInMeters>10000</distanceInMeters>
+<placeName>BCN</placeName>
+<coordinates xsi:nil="true"/>
+</distance>
+<distance>
+<distanceInMeters>100000</distanceInMeters>
+<placeName>GRO</placeName>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+</distanceTypes>
+<timeZone>01:00</timeZone>
+<isBestBuy>false</isBestBuy>
+</hotel>
+<hotel xsi:type="StaticHotel">
+<hotel.id>20871</hotel.id>
+<destination_id>695</destination_id>
+<resort_id>186</resort_id>
+<transfer>1</transfer>
+<roomtypes>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>19661</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>140267749</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">14627</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>140268064</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">16641</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Twin/Double room</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+</roomtypes>
+<notes/>
+<distance xsi:nil="true"/>
+<codes/>
+<type>Hotel</type>
+<name>Casa Lit Barcelona by Ona Hotels</name>
+<hotel.addr.1>Arc del Teatre, 58</hotel.addr.1>
+<hotel.addr.2/>
+<hotel.addr.zip>08001</hotel.addr.zip>
+<hotel.addr.city>Barcelona</hotel.addr.city>
+<hotel.addr.state/>
+<hotel.addr.country>Spain</hotel.addr.country>
+<hotel.addr.countrycode>ES</hotel.addr.countrycode>
+<hotel.address>Arc del Teatre, 58 08001 Barcelona Spain</hotel.address>
+<hotel.mapurl>This feature is deprecated. We apologize for any inconvenience this may cause.</hotel.mapurl>
+<headline>Casa Lit Barcelona by Ona Hotels is a central hotel in Barcelona, located in Ciutat Vella, in the building that housed the old Teatro Colón. A hotel in the heart of Barcelona, a few minutes from Las Ramblas, the Port of Barcelona and also the theaters of Paral.lel Avenue. Situated in the center of Barcelona, 1 km from the Gotic Quarter, 1.5 km from Catalunya Square, 6 km from Sagrada Familia and 14 km from Barcelona–El Prat Airport.</headline>
+<description>Facilities and services include wireless Internet access, parking (extra charge), breakfast room , bar, lounge, meeting room, solarium, elevator and 24-hour reception. Rooms feature air conditioning, TV, wireless Internet access, telephone and bathroom. Superior room also feature balcony/terrace. Address: Arc del Teatre 58, 08001 Barcelona, Spain.</description>
+<resort>Barcelona</resort>
+<destination>Barcelona</destination>
+<themes/>
+<images>
+<image id="23914651">
+<fullSizeImage url="?id=23914651&full=1" height="1000" width="1000"/>
+<smallImage url="?id=23914651" height="800" width="800"/>
+</image>
+<image id="23914652">
+<fullSizeImage url="?id=23914652&full=1" height="1000" width="1000"/>
+<smallImage url="?id=23914652" height="800" width="800"/>
+</image>
+<image id="23914653">
+<fullSizeImage url="?id=23914653&full=1" height="1000" width="1000"/>
+<smallImage url="?id=23914653" height="800" width="800"/>
+</image>
+<image id="23914654">
+<fullSizeImage url="?id=23914654&full=1" height="1000" width="1000"/>
+<smallImage url="?id=23914654" height="800" width="800"/>
+</image>
+<image id="23914655">
+<fullSizeImage url="?id=23914655&full=1" height="1000" width="1000"/>
+<smallImage url="?id=23914655" height="800" width="800"/>
+</image>
+<image id="21429823">
+<fullSizeImage url="?id=21429823&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429823" height="333" width="500"/>
+</image>
+<image id="21429828">
+<fullSizeImage url="?id=21429828&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429828" height="333" width="500"/>
+</image>
+<image id="21429829">
+<fullSizeImage url="?id=21429829&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429829" height="333" width="500"/>
+</image>
+<image id="21429830">
+<fullSizeImage url="?id=21429830&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429830" height="333" width="500"/>
+</image>
+<image id="21429831">
+<fullSizeImage url="?id=21429831&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429831" height="333" width="500"/>
+</image>
+<image id="21429832">
+<fullSizeImage url="?id=21429832&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429832" height="333" width="500"/>
+</image>
+<image id="21429833">
+<fullSizeImage url="?id=21429833&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429833" height="333" width="500"/>
+</image>
+<image id="21429834">
+<fullSizeImage url="?id=21429834&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429834" height="333" width="500"/>
+</image>
+<image id="21429835">
+<fullSizeImage url="?id=21429835&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429835" height="333" width="500"/>
+</image>
+<image id="21429838">
+<fullSizeImage url="?id=21429838&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429838" height="333" width="500"/>
+</image>
+<image id="21429839">
+<fullSizeImage url="?id=21429839&full=1" height="600" width="800"/>
+<smallImage url="?id=21429839" height="375" width="500"/>
+</image>
+<image id="21429842">
+<fullSizeImage url="?id=21429842&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429842" height="333" width="500"/>
+</image>
+<image id="21429843">
+<fullSizeImage url="?id=21429843&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429843" height="333" width="500"/>
+</image>
+<image id="21429844">
+<fullSizeImage url="?id=21429844&full=1" height="600" width="800"/>
+<smallImage url="?id=21429844" height="375" width="500"/>
+</image>
+<image id="21429845">
+<fullSizeImage url="?id=21429845&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429845" height="333" width="500"/>
+</image>
+<image id="21429846">
+<fullSizeImage url="?id=21429846&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429846" height="333" width="500"/>
+</image>
+<image id="21429847">
+<fullSizeImage url="?id=21429847&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429847" height="333" width="500"/>
+</image>
+<image id="21429848">
+<fullSizeImage url="?id=21429848&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429848" height="333" width="500"/>
+</image>
+<image id="21429849">
+<fullSizeImage url="?id=21429849&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429849" height="333" width="500"/>
+</image>
+<image id="21429850">
+<fullSizeImage url="?id=21429850&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429850" height="333" width="500"/>
+</image>
+<image id="21429851">
+<fullSizeImage url="?id=21429851&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429851" height="333" width="500"/>
+</image>
+<image id="21429852">
+<fullSizeImage url="?id=21429852&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429852" height="333" width="500"/>
+</image>
+<image id="21429853">
+<fullSizeImage url="?id=21429853&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429853" height="333" width="500"/>
+</image>
+<image id="21429854">
+<fullSizeImage url="?id=21429854&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429854" height="333" width="500"/>
+</image>
+<image id="21429855">
+<fullSizeImage url="?id=21429855&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429855" height="333" width="500"/>
+</image>
+<image id="21429856">
+<fullSizeImage url="?id=21429856&full=1" height="853" width="1280"/>
+<smallImage url="?id=21429856" height="333" width="500"/>
+</image>
+</images>
+<features>
+<feature id="1" name="Air Conditioning"/>
+<feature id="3" name="Bar"/>
+<feature id="10" name="Telephone"/>
+<feature id="11" name="TV"/>
+<feature id="12" name="Wireless internet"/>
+<feature id="43" name="24hr reception"/>
+<feature id="44" name="Babysitting services"/>
+<feature id="47" name="Car parking"/>
+<feature id="53" name="Disabled facilities"/>
+<feature id="60" name="Multilingual staff"/>
+</features>
+<classification>3</classification>
+<distanceTypes>
+<distanceType>
+<hotelDistanceTypeId>2</hotelDistanceTypeId>
+<description>Centre</description>
+<distances>
+<distance>
+<distanceInMeters>0</distanceInMeters>
+<placeName xsi:nil="true"/>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+<distanceType>
+<hotelDistanceTypeId>3</hotelDistanceTypeId>
+<description>Airport</description>
+<distances>
+<distance>
+<distanceInMeters>14000</distanceInMeters>
+<placeName>BCN</placeName>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+</distanceTypes>
+<timeZone>01:00</timeZone>
+<isBestBuy>false</isBestBuy>
+</hotel>
+<hotel xsi:type="StaticHotel">
+<hotel.id>3388</hotel.id>
+<destination_id>695</destination_id>
+<resort_id>186</resort_id>
+<transfer>1</transfer>
+<roomtypes>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>18728</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>36133859</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">26569</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>2</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 2% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>59285225</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">33599</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Double room - Junior</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+</roomtypes>
+<notes/>
+<distance xsi:nil="true"/>
+<codes/>
+<type>Hotel</type>
+<name>Claris Hotel and Spa</name>
+<hotel.addr.1>Carrer de Pau Claris</hotel.addr.1>
+<hotel.addr.2/>
+<hotel.addr.zip>08009</hotel.addr.zip>
+<hotel.addr.city>Barcelona</hotel.addr.city>
+<hotel.addr.state/>
+<hotel.addr.country>Spain</hotel.addr.country>
+<hotel.addr.countrycode>ES</hotel.addr.countrycode>
+<hotel.address>Carrer de Pau Claris 08009 Barcelona Spain</hotel.address>
+<hotel.mapurl>This feature is deprecated. We apologize for any inconvenience this may cause.</hotel.mapurl>
+<headline>Situated in Barcelona's central Eixample neighborhood, just steps away from Passeig de Gràcia, 1 km from Catalonia Square, 1.5 km from the Sagrada Familia and 2 km from Las Ramblas.</headline>
+<description>Facilities and services include restaurant, bar, swimming pool, parking (extra charge), wireless Internet access, elevator, gym, sauna, meeting room, business center and 24-hour reception. Rooms feature minibar, sofa, air conditioning, heating, safe, wireless Internet access, TV, telephone, hairdryer and bathroom. Junior suites feature sofa bed, whirlpool and laundry service. Junior suites duplex feature two TV's Suites feature living room and sofa bed. Suites duplex feature private sauna. Address: Carrer de Pau Claris 150, 08009 Barcelona, Spain.</description>
+<resort>Barcelona</resort>
+<destination>Barcelona</destination>
+<themes/>
+<images>
+<image id="12683972">
+<smallImage url="?id=12683972" height="800" width="800"/>
+</image>
+<image id="12683973">
+<smallImage url="?id=12683973" height="800" width="800"/>
+</image>
+<image id="12683974">
+<smallImage url="?id=12683974" height="800" width="800"/>
+</image>
+<image id="12683975">
+<smallImage url="?id=12683975" height="800" width="800"/>
+</image>
+<image id="12683976">
+<smallImage url="?id=12683976" height="800" width="800"/>
+</image>
+<image id="12683977">
+<smallImage url="?id=12683977" height="800" width="800"/>
+</image>
+<image id="12683978">
+<smallImage url="?id=12683978" height="800" width="800"/>
+</image>
+<image id="12690234">
+<smallImage url="?id=12690234" height="800" width="800"/>
+</image>
+<image id="12690235">
+<smallImage url="?id=12690235" height="800" width="800"/>
+</image>
+<image id="12690236">
+<smallImage url="?id=12690236" height="800" width="800"/>
+</image>
+<image id="12690237">
+<smallImage url="?id=12690237" height="800" width="800"/>
+</image>
+<image id="12690238">
+<smallImage url="?id=12690238" height="800" width="800"/>
+</image>
+<image id="12690239">
+<smallImage url="?id=12690239" height="800" width="800"/>
+</image>
+<image id="12690240">
+<smallImage url="?id=12690240" height="800" width="800"/>
+</image>
+<image id="12690241">
+<smallImage url="?id=12690241" height="800" width="800"/>
+</image>
+<image id="12690242">
+<smallImage url="?id=12690242" height="800" width="800"/>
+</image>
+<image id="12690243">
+<smallImage url="?id=12690243" height="800" width="800"/>
+</image>
+<image id="12690244">
+<smallImage url="?id=12690244" height="800" width="800"/>
+</image>
+<image id="12690245">
+<smallImage url="?id=12690245" height="800" width="800"/>
+</image>
+<image id="12690246">
+<smallImage url="?id=12690246" height="800" width="800"/>
+</image>
+<image id="12690247">
+<smallImage url="?id=12690247" height="800" width="800"/>
+</image>
+<image id="12690248">
+<smallImage url="?id=12690248" height="800" width="800"/>
+</image>
+<image id="12690249">
+<smallImage url="?id=12690249" height="800" width="800"/>
+</image>
+<image id="12690250">
+<smallImage url="?id=12690250" height="800" width="800"/>
+</image>
+<image id="12690251">
+<smallImage url="?id=12690251" height="800" width="800"/>
+</image>
+<image id="12690252">
+<smallImage url="?id=12690252" height="800" width="800"/>
+</image>
+<image id="12690253">
+<smallImage url="?id=12690253" height="800" width="800"/>
+</image>
+<image id="12690254">
+<smallImage url="?id=12690254" height="800" width="800"/>
+</image>
+<image id="12690255">
+<smallImage url="?id=12690255" height="800" width="800"/>
+</image>
+<image id="12690256">
+<smallImage url="?id=12690256" height="800" width="800"/>
+</image>
+<image id="12690257">
+<smallImage url="?id=12690257" height="800" width="800"/>
+</image>
+<image id="12690258">
+<smallImage url="?id=12690258" height="800" width="800"/>
+</image>
+<image id="12690259">
+<smallImage url="?id=12690259" height="800" width="800"/>
+</image>
+<image id="12690260">
+<smallImage url="?id=12690260" height="800" width="800"/>
+</image>
+<image id="12690261">
+<smallImage url="?id=12690261" height="800" width="800"/>
+</image>
+<image id="12690262">
+<smallImage url="?id=12690262" height="800" width="800"/>
+</image>
+<image id="12690263">
+<smallImage url="?id=12690263" height="800" width="800"/>
+</image>
+<image id="12690264">
+<smallImage url="?id=12690264" height="800" width="800"/>
+</image>
+<image id="12690265">
+<smallImage url="?id=12690265" height="800" width="800"/>
+</image>
+<image id="12690266">
+<smallImage url="?id=12690266" height="800" width="800"/>
+</image>
+<image id="12690267">
+<smallImage url="?id=12690267" height="800" width="800"/>
+</image>
+<image id="12690268">
+<smallImage url="?id=12690268" height="800" width="800"/>
+</image>
+<image id="12690269">
+<smallImage url="?id=12690269" height="800" width="800"/>
+</image>
+<image id="17216038">
+<smallImage url="?id=17216038" height="800" width="800"/>
+</image>
+<image id="17216039">
+<smallImage url="?id=17216039" height="800" width="800"/>
+</image>
+<image id="17216040">
+<smallImage url="?id=17216040" height="800" width="800"/>
+</image>
+<image id="17216041">
+<smallImage url="?id=17216041" height="800" width="800"/>
+</image>
+<image id="17216042">
+<smallImage url="?id=17216042" height="800" width="800"/>
+</image>
+<image id="17216043">
+<smallImage url="?id=17216043" height="800" width="800"/>
+</image>
+<image id="17216044">
+<smallImage url="?id=17216044" height="800" width="800"/>
+</image>
+<image id="17216045">
+<smallImage url="?id=17216045" height="800" width="800"/>
+</image>
+<image id="17216046">
+<smallImage url="?id=17216046" height="800" width="800"/>
+</image>
+<image id="17216047">
+<smallImage url="?id=17216047" height="800" width="800"/>
+</image>
+<image id="17216048">
+<smallImage url="?id=17216048" height="800" width="800"/>
+</image>
+<image id="17216049">
+<smallImage url="?id=17216049" height="800" width="800"/>
+</image>
+<image id="17216050">
+<smallImage url="?id=17216050" height="800" width="800"/>
+</image>
+<image id="17216051">
+<smallImage url="?id=17216051" height="800" width="800"/>
+</image>
+<image id="17216052">
+<smallImage url="?id=17216052" height="800" width="800"/>
+</image>
+<image id="17216053">
+<smallImage url="?id=17216053" height="800" width="800"/>
+</image>
+<image id="17216054">
+<smallImage url="?id=17216054" height="800" width="800"/>
+</image>
+<image id="17216055">
+<smallImage url="?id=17216055" height="800" width="800"/>
+</image>
+<image id="17216056">
+<smallImage url="?id=17216056" height="800" width="800"/>
+</image>
+<image id="17216057">
+<smallImage url="?id=17216057" height="800" width="800"/>
+</image>
+<image id="17216058">
+<smallImage url="?id=17216058" height="800" width="800"/>
+</image>
+<image id="17216059">
+<smallImage url="?id=17216059" height="800" width="800"/>
+</image>
+<image id="17216060">
+<smallImage url="?id=17216060" height="800" width="800"/>
+</image>
+<image id="17216061">
+<smallImage url="?id=17216061" height="800" width="800"/>
+</image>
+<image id="17216062">
+<smallImage url="?id=17216062" height="800" width="800"/>
+</image>
+<image id="17216063">
+<smallImage url="?id=17216063" height="800" width="800"/>
+</image>
+<image id="17216064">
+<smallImage url="?id=17216064" height="800" width="800"/>
+</image>
+<image id="17216065">
+<smallImage url="?id=17216065" height="800" width="800"/>
+</image>
+<image id="17216066">
+<smallImage url="?id=17216066" height="800" width="800"/>
+</image>
+<image id="17216067">
+<smallImage url="?id=17216067" height="800" width="800"/>
+</image>
+<image id="17216068">
+<smallImage url="?id=17216068" height="800" width="800"/>
+</image>
+<image id="17216069">
+<smallImage url="?id=17216069" height="800" width="800"/>
+</image>
+<image id="17216070">
+<smallImage url="?id=17216070" height="800" width="800"/>
+</image>
+<image id="17216071">
+<smallImage url="?id=17216071" height="800" width="800"/>
+</image>
+<image id="17216072">
+<smallImage url="?id=17216072" height="800" width="800"/>
+</image>
+<image id="17216073">
+<smallImage url="?id=17216073" height="800" width="800"/>
+</image>
+<image id="17216074">
+<smallImage url="?id=17216074" height="800" width="800"/>
+</image>
+<image id="17216075">
+<smallImage url="?id=17216075" height="800" width="800"/>
+</image>
+<image id="17216076">
+<smallImage url="?id=17216076" height="800" width="800"/>
+</image>
+<image id="17216077">
+<smallImage url="?id=17216077" height="800" width="800"/>
+</image>
+<image id="17216078">
+<smallImage url="?id=17216078" height="800" width="800"/>
+</image>
+<image id="17216079">
+<smallImage url="?id=17216079" height="800" width="800"/>
+</image>
+<image id="17216080">
+<smallImage url="?id=17216080" height="800" width="800"/>
+</image>
+<image id="17216081">
+<smallImage url="?id=17216081" height="800" width="800"/>
+</image>
+<image id="17216082">
+<smallImage url="?id=17216082" height="800" width="800"/>
+</image>
+<image id="17216083">
+<smallImage url="?id=17216083" height="800" width="800"/>
+</image>
+<image id="17216084">
+<smallImage url="?id=17216084" height="800" width="800"/>
+</image>
+<image id="17213270">
+<smallImage url="?id=17213270" height="800" width="800"/>
+</image>
+<image id="17213271">
+<smallImage url="?id=17213271" height="800" width="800"/>
+</image>
+<image id="22070240">
+<fullSizeImage url="?id=22070240&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070240" height="800" width="800"/>
+</image>
+<image id="22070241">
+<fullSizeImage url="?id=22070241&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070241" height="800" width="800"/>
+</image>
+<image id="22070242">
+<fullSizeImage url="?id=22070242&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070242" height="800" width="800"/>
+</image>
+<image id="22070243">
+<fullSizeImage url="?id=22070243&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070243" height="800" width="800"/>
+</image>
+<image id="22070244">
+<fullSizeImage url="?id=22070244&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070244" height="800" width="800"/>
+</image>
+<image id="22070245">
+<fullSizeImage url="?id=22070245&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070245" height="800" width="800"/>
+</image>
+<image id="22070246">
+<fullSizeImage url="?id=22070246&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070246" height="800" width="800"/>
+</image>
+<image id="22070247">
+<fullSizeImage url="?id=22070247&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070247" height="800" width="800"/>
+</image>
+<image id="22070248">
+<fullSizeImage url="?id=22070248&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070248" height="800" width="800"/>
+</image>
+<image id="22070249">
+<fullSizeImage url="?id=22070249&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070249" height="800" width="800"/>
+</image>
+<image id="22070250">
+<fullSizeImage url="?id=22070250&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070250" height="800" width="800"/>
+</image>
+<image id="22070251">
+<fullSizeImage url="?id=22070251&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070251" height="800" width="800"/>
+</image>
+<image id="22070252">
+<fullSizeImage url="?id=22070252&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070252" height="800" width="800"/>
+</image>
+<image id="22070253">
+<fullSizeImage url="?id=22070253&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070253" height="800" width="800"/>
+</image>
+<image id="22070254">
+<fullSizeImage url="?id=22070254&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070254" height="800" width="800"/>
+</image>
+<image id="22070255">
+<fullSizeImage url="?id=22070255&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070255" height="800" width="800"/>
+</image>
+<image id="22070256">
+<fullSizeImage url="?id=22070256&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070256" height="800" width="800"/>
+</image>
+<image id="22070257">
+<fullSizeImage url="?id=22070257&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070257" height="800" width="800"/>
+</image>
+<image id="22070258">
+<fullSizeImage url="?id=22070258&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070258" height="800" width="800"/>
+</image>
+<image id="22070259">
+<fullSizeImage url="?id=22070259&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070259" height="800" width="800"/>
+</image>
+<image id="22070260">
+<fullSizeImage url="?id=22070260&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070260" height="800" width="800"/>
+</image>
+<image id="22070261">
+<fullSizeImage url="?id=22070261&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070261" height="800" width="800"/>
+</image>
+<image id="22070262">
+<fullSizeImage url="?id=22070262&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070262" height="800" width="800"/>
+</image>
+<image id="22070263">
+<fullSizeImage url="?id=22070263&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070263" height="800" width="800"/>
+</image>
+<image id="22070264">
+<fullSizeImage url="?id=22070264&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070264" height="800" width="800"/>
+</image>
+<image id="22070265">
+<fullSizeImage url="?id=22070265&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070265" height="800" width="800"/>
+</image>
+<image id="22070266">
+<fullSizeImage url="?id=22070266&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070266" height="800" width="800"/>
+</image>
+<image id="22070267">
+<fullSizeImage url="?id=22070267&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070267" height="800" width="800"/>
+</image>
+<image id="22070268">
+<fullSizeImage url="?id=22070268&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070268" height="800" width="800"/>
+</image>
+<image id="22070269">
+<fullSizeImage url="?id=22070269&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070269" height="800" width="800"/>
+</image>
+<image id="22070270">
+<fullSizeImage url="?id=22070270&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070270" height="800" width="800"/>
+</image>
+<image id="22070271">
+<fullSizeImage url="?id=22070271&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070271" height="800" width="800"/>
+</image>
+<image id="22070272">
+<fullSizeImage url="?id=22070272&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070272" height="800" width="800"/>
+</image>
+<image id="22070273">
+<fullSizeImage url="?id=22070273&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070273" height="800" width="800"/>
+</image>
+<image id="22070274">
+<fullSizeImage url="?id=22070274&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070274" height="800" width="800"/>
+</image>
+<image id="22070275">
+<fullSizeImage url="?id=22070275&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22070275" height="800" width="800"/>
+</image>
+<image id="22064918">
+<fullSizeImage url="?id=22064918&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064918" height="800" width="800"/>
+</image>
+<image id="22064919">
+<fullSizeImage url="?id=22064919&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064919" height="800" width="800"/>
+</image>
+<image id="22064920">
+<fullSizeImage url="?id=22064920&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064920" height="800" width="800"/>
+</image>
+<image id="22064921">
+<fullSizeImage url="?id=22064921&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064921" height="800" width="800"/>
+</image>
+<image id="22064922">
+<fullSizeImage url="?id=22064922&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064922" height="800" width="800"/>
+</image>
+<image id="22064923">
+<fullSizeImage url="?id=22064923&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064923" height="800" width="800"/>
+</image>
+<image id="22064924">
+<fullSizeImage url="?id=22064924&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064924" height="800" width="800"/>
+</image>
+<image id="22064925">
+<fullSizeImage url="?id=22064925&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064925" height="800" width="800"/>
+</image>
+<image id="22064926">
+<fullSizeImage url="?id=22064926&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064926" height="800" width="800"/>
+</image>
+<image id="22064927">
+<fullSizeImage url="?id=22064927&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064927" height="800" width="800"/>
+</image>
+<image id="22064928">
+<fullSizeImage url="?id=22064928&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064928" height="800" width="800"/>
+</image>
+<image id="22064929">
+<fullSizeImage url="?id=22064929&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064929" height="800" width="800"/>
+</image>
+<image id="22064930">
+<fullSizeImage url="?id=22064930&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064930" height="800" width="800"/>
+</image>
+<image id="22064931">
+<fullSizeImage url="?id=22064931&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064931" height="800" width="800"/>
+</image>
+<image id="22064932">
+<fullSizeImage url="?id=22064932&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064932" height="800" width="800"/>
+</image>
+<image id="22064933">
+<fullSizeImage url="?id=22064933&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064933" height="800" width="800"/>
+</image>
+<image id="22064934">
+<fullSizeImage url="?id=22064934&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064934" height="800" width="800"/>
+</image>
+<image id="22064935">
+<fullSizeImage url="?id=22064935&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064935" height="800" width="800"/>
+</image>
+<image id="22064936">
+<fullSizeImage url="?id=22064936&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064936" height="800" width="800"/>
+</image>
+<image id="22064937">
+<fullSizeImage url="?id=22064937&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064937" height="800" width="800"/>
+</image>
+<image id="22064938">
+<fullSizeImage url="?id=22064938&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064938" height="800" width="800"/>
+</image>
+<image id="22064939">
+<fullSizeImage url="?id=22064939&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064939" height="800" width="800"/>
+</image>
+<image id="22064940">
+<fullSizeImage url="?id=22064940&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064940" height="800" width="800"/>
+</image>
+<image id="22064941">
+<fullSizeImage url="?id=22064941&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064941" height="800" width="800"/>
+</image>
+<image id="22064942">
+<fullSizeImage url="?id=22064942&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064942" height="800" width="800"/>
+</image>
+<image id="22064943">
+<fullSizeImage url="?id=22064943&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064943" height="800" width="800"/>
+</image>
+<image id="22064944">
+<fullSizeImage url="?id=22064944&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064944" height="800" width="800"/>
+</image>
+<image id="22064945">
+<fullSizeImage url="?id=22064945&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064945" height="800" width="800"/>
+</image>
+<image id="22064946">
+<fullSizeImage url="?id=22064946&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064946" height="800" width="800"/>
+</image>
+<image id="22064947">
+<fullSizeImage url="?id=22064947&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064947" height="800" width="800"/>
+</image>
+<image id="22064948">
+<fullSizeImage url="?id=22064948&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064948" height="800" width="800"/>
+</image>
+<image id="22064949">
+<fullSizeImage url="?id=22064949&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064949" height="800" width="800"/>
+</image>
+<image id="22064950">
+<fullSizeImage url="?id=22064950&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064950" height="800" width="800"/>
+</image>
+<image id="22064951">
+<fullSizeImage url="?id=22064951&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064951" height="800" width="800"/>
+</image>
+<image id="22064952">
+<fullSizeImage url="?id=22064952&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064952" height="800" width="800"/>
+</image>
+<image id="22064953">
+<fullSizeImage url="?id=22064953&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064953" height="800" width="800"/>
+</image>
+<image id="22064954">
+<fullSizeImage url="?id=22064954&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064954" height="800" width="800"/>
+</image>
+<image id="22064955">
+<fullSizeImage url="?id=22064955&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064955" height="800" width="800"/>
+</image>
+<image id="22064956">
+<fullSizeImage url="?id=22064956&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064956" height="800" width="800"/>
+</image>
+<image id="22064957">
+<fullSizeImage url="?id=22064957&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064957" height="800" width="800"/>
+</image>
+<image id="22064958">
+<fullSizeImage url="?id=22064958&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064958" height="800" width="800"/>
+</image>
+<image id="22064959">
+<fullSizeImage url="?id=22064959&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064959" height="800" width="800"/>
+</image>
+<image id="22064960">
+<fullSizeImage url="?id=22064960&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064960" height="800" width="800"/>
+</image>
+<image id="22064961">
+<fullSizeImage url="?id=22064961&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064961" height="800" width="800"/>
+</image>
+<image id="22064962">
+<fullSizeImage url="?id=22064962&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064962" height="800" width="800"/>
+</image>
+<image id="22064963">
+<fullSizeImage url="?id=22064963&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064963" height="800" width="800"/>
+</image>
+<image id="22064964">
+<fullSizeImage url="?id=22064964&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064964" height="800" width="800"/>
+</image>
+<image id="22064965">
+<fullSizeImage url="?id=22064965&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064965" height="800" width="800"/>
+</image>
+<image id="22064966">
+<fullSizeImage url="?id=22064966&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064966" height="800" width="800"/>
+</image>
+<image id="22064967">
+<fullSizeImage url="?id=22064967&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064967" height="800" width="800"/>
+</image>
+<image id="22064968">
+<fullSizeImage url="?id=22064968&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064968" height="800" width="800"/>
+</image>
+<image id="22064969">
+<fullSizeImage url="?id=22064969&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064969" height="800" width="800"/>
+</image>
+<image id="22064970">
+<fullSizeImage url="?id=22064970&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064970" height="800" width="800"/>
+</image>
+<image id="22064971">
+<fullSizeImage url="?id=22064971&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064971" height="800" width="800"/>
+</image>
+<image id="22064972">
+<fullSizeImage url="?id=22064972&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064972" height="800" width="800"/>
+</image>
+<image id="22064973">
+<fullSizeImage url="?id=22064973&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064973" height="800" width="800"/>
+</image>
+<image id="22064974">
+<fullSizeImage url="?id=22064974&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064974" height="800" width="800"/>
+</image>
+<image id="22064975">
+<fullSizeImage url="?id=22064975&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064975" height="800" width="800"/>
+</image>
+<image id="22064976">
+<fullSizeImage url="?id=22064976&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064976" height="800" width="800"/>
+</image>
+<image id="22064977">
+<fullSizeImage url="?id=22064977&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064977" height="800" width="800"/>
+</image>
+<image id="22064978">
+<fullSizeImage url="?id=22064978&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064978" height="800" width="800"/>
+</image>
+<image id="22064979">
+<fullSizeImage url="?id=22064979&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064979" height="800" width="800"/>
+</image>
+<image id="22064980">
+<fullSizeImage url="?id=22064980&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064980" height="800" width="800"/>
+</image>
+<image id="22064981">
+<fullSizeImage url="?id=22064981&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064981" height="800" width="800"/>
+</image>
+<image id="22064982">
+<fullSizeImage url="?id=22064982&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064982" height="800" width="800"/>
+</image>
+<image id="22064983">
+<fullSizeImage url="?id=22064983&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064983" height="800" width="800"/>
+</image>
+<image id="22064984">
+<fullSizeImage url="?id=22064984&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064984" height="800" width="800"/>
+</image>
+<image id="22064985">
+<fullSizeImage url="?id=22064985&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064985" height="800" width="800"/>
+</image>
+<image id="22064986">
+<fullSizeImage url="?id=22064986&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064986" height="800" width="800"/>
+</image>
+<image id="22064987">
+<fullSizeImage url="?id=22064987&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064987" height="800" width="800"/>
+</image>
+<image id="22064988">
+<fullSizeImage url="?id=22064988&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064988" height="800" width="800"/>
+</image>
+<image id="22064989">
+<fullSizeImage url="?id=22064989&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064989" height="800" width="800"/>
+</image>
+<image id="22064990">
+<fullSizeImage url="?id=22064990&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064990" height="800" width="800"/>
+</image>
+<image id="22064991">
+<fullSizeImage url="?id=22064991&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064991" height="800" width="800"/>
+</image>
+<image id="22064992">
+<fullSizeImage url="?id=22064992&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064992" height="800" width="800"/>
+</image>
+<image id="22064993">
+<fullSizeImage url="?id=22064993&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064993" height="800" width="800"/>
+</image>
+<image id="22064994">
+<fullSizeImage url="?id=22064994&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064994" height="800" width="800"/>
+</image>
+<image id="22064995">
+<fullSizeImage url="?id=22064995&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064995" height="800" width="800"/>
+</image>
+<image id="22064996">
+<fullSizeImage url="?id=22064996&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064996" height="800" width="800"/>
+</image>
+<image id="22064997">
+<fullSizeImage url="?id=22064997&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064997" height="800" width="800"/>
+</image>
+<image id="22064998">
+<fullSizeImage url="?id=22064998&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064998" height="800" width="800"/>
+</image>
+<image id="22064999">
+<fullSizeImage url="?id=22064999&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22064999" height="800" width="800"/>
+</image>
+<image id="22065000">
+<fullSizeImage url="?id=22065000&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065000" height="800" width="800"/>
+</image>
+<image id="22065001">
+<fullSizeImage url="?id=22065001&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065001" height="800" width="800"/>
+</image>
+<image id="22065002">
+<fullSizeImage url="?id=22065002&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065002" height="800" width="800"/>
+</image>
+<image id="22065003">
+<fullSizeImage url="?id=22065003&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065003" height="800" width="800"/>
+</image>
+<image id="22065004">
+<fullSizeImage url="?id=22065004&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065004" height="800" width="800"/>
+</image>
+<image id="22065005">
+<fullSizeImage url="?id=22065005&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065005" height="800" width="800"/>
+</image>
+<image id="22065006">
+<fullSizeImage url="?id=22065006&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065006" height="800" width="800"/>
+</image>
+<image id="22065007">
+<fullSizeImage url="?id=22065007&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065007" height="800" width="800"/>
+</image>
+<image id="22065008">
+<fullSizeImage url="?id=22065008&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065008" height="800" width="800"/>
+</image>
+<image id="22065009">
+<fullSizeImage url="?id=22065009&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065009" height="800" width="800"/>
+</image>
+<image id="22065010">
+<fullSizeImage url="?id=22065010&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065010" height="800" width="800"/>
+</image>
+<image id="22065011">
+<fullSizeImage url="?id=22065011&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065011" height="800" width="800"/>
+</image>
+<image id="22065012">
+<fullSizeImage url="?id=22065012&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065012" height="800" width="800"/>
+</image>
+<image id="22065013">
+<fullSizeImage url="?id=22065013&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065013" height="800" width="800"/>
+</image>
+<image id="22065014">
+<fullSizeImage url="?id=22065014&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065014" height="800" width="800"/>
+</image>
+<image id="22065015">
+<fullSizeImage url="?id=22065015&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065015" height="800" width="800"/>
+</image>
+<image id="22065016">
+<fullSizeImage url="?id=22065016&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065016" height="800" width="800"/>
+</image>
+<image id="22065017">
+<fullSizeImage url="?id=22065017&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065017" height="800" width="800"/>
+</image>
+<image id="22065018">
+<fullSizeImage url="?id=22065018&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065018" height="800" width="800"/>
+</image>
+<image id="22065019">
+<fullSizeImage url="?id=22065019&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065019" height="800" width="800"/>
+</image>
+<image id="22065020">
+<fullSizeImage url="?id=22065020&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065020" height="800" width="800"/>
+</image>
+<image id="22065021">
+<fullSizeImage url="?id=22065021&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065021" height="800" width="800"/>
+</image>
+<image id="22065022">
+<fullSizeImage url="?id=22065022&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065022" height="800" width="800"/>
+</image>
+<image id="22065023">
+<fullSizeImage url="?id=22065023&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065023" height="800" width="800"/>
+</image>
+<image id="22065024">
+<fullSizeImage url="?id=22065024&full=1" height="1000" width="1000"/>
+<smallImage url="?id=22065024" height="800" width="800"/>
+</image>
+<image id="10675912">
+<fullSizeImage url="?id=10675912&full=1" height="853" width="1280"/>
+<smallImage url="?id=10675912" height="333" width="500"/>
+</image>
+<image id="10675914">
+<fullSizeImage url="?id=10675914&full=1" height="853" width="1280"/>
+<smallImage url="?id=10675914" height="333" width="500"/>
+</image>
+<image id="10675915">
+<fullSizeImage url="?id=10675915&full=1" height="853" width="1280"/>
+<smallImage url="?id=10675915" height="333" width="500"/>
+</image>
+<image id="10675916">
+<fullSizeImage url="?id=10675916&full=1" height="853" width="1280"/>
+<smallImage url="?id=10675916" height="333" width="500"/>
+</image>
+<image id="10675917">
+<fullSizeImage url="?id=10675917&full=1" height="853" width="1280"/>
+<smallImage url="?id=10675917" height="333" width="500"/>
+</image>
+<image id="10675918">
+<fullSizeImage url="?id=10675918&full=1" height="853" width="1280"/>
+<smallImage url="?id=10675918" height="333" width="500"/>
+</image>
+<image id="10675919">
+<fullSizeImage url="?id=10675919&full=1" height="853" width="1280"/>
+<smallImage url="?id=10675919" height="333" width="500"/>
+</image>
+<image id="10675920">
+<fullSizeImage url="?id=10675920&full=1" height="853" width="1280"/>
+<smallImage url="?id=10675920" height="333" width="500"/>
+</image>
+<image id="10675921">
+<fullSizeImage url="?id=10675921&full=1" height="853" width="1280"/>
+<smallImage url="?id=10675921" height="333" width="500"/>
+</image>
+<image id="10675922">
+<fullSizeImage url="?id=10675922&full=1" height="853" width="1280"/>
+<smallImage url="?id=10675922" height="333" width="500"/>
+</image>
+<image id="10675923">
+<fullSizeImage url="?id=10675923&full=1" height="853" width="1280"/>
+<smallImage url="?id=10675923" height="333" width="500"/>
+</image>
+<image id="10798176">
+<fullSizeImage url="?id=10798176&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798176" height="333" width="500"/>
+</image>
+<image id="10798177">
+<fullSizeImage url="?id=10798177&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798177" height="333" width="500"/>
+</image>
+<image id="10798178">
+<fullSizeImage url="?id=10798178&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798178" height="333" width="500"/>
+</image>
+<image id="10798179">
+<fullSizeImage url="?id=10798179&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798179" height="333" width="500"/>
+</image>
+<image id="10798180">
+<fullSizeImage url="?id=10798180&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798180" height="333" width="500"/>
+</image>
+<image id="10798181">
+<fullSizeImage url="?id=10798181&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798181" height="333" width="500"/>
+</image>
+<image id="10798182">
+<fullSizeImage url="?id=10798182&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798182" height="333" width="500"/>
+</image>
+<image id="10798183">
+<fullSizeImage url="?id=10798183&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798183" height="333" width="500"/>
+</image>
+<image id="10798184">
+<fullSizeImage url="?id=10798184&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798184" height="333" width="500"/>
+</image>
+<image id="10798196">
+<fullSizeImage url="?id=10798196&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798196" height="333" width="500"/>
+</image>
+<image id="10798197">
+<fullSizeImage url="?id=10798197&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798197" height="333" width="500"/>
+</image>
+<image id="10798198">
+<fullSizeImage url="?id=10798198&full=1" height="853" width="1280"/>
+<smallImage url="?id=10798198" height="333" width="500"/>
+</image>
+</images>
+<features>
+<feature id="1" name="Air Conditioning"/>
+<feature id="3" name="Bar"/>
+<feature id="4" name="Elevator"/>
+<feature id="5" name="Pool"/>
+<feature id="7" name="Restaurant"/>
+<feature id="8" name="Safe"/>
+<feature id="10" name="Telephone"/>
+<feature id="11" name="TV"/>
+<feature id="12" name="Wireless internet"/>
+<feature id="43" name="24hr reception"/>
+<feature id="44" name="Babysitting services"/>
+<feature id="45" name="Breakfast room"/>
+<feature id="46" name="Business services"/>
+<feature id="47" name="Car parking"/>
+<feature id="48" name="Car parking (chargeable)"/>
+<feature id="50" name="Concierge facilities"/>
+<feature id="51" name="Credit Cards - Amex/Visa/Mastercard"/>
+<feature id="52" name="Currency exchange"/>
+<feature id="54" name="Free Wi-Fi"/>
+<feature id="56" name="Gym/fitness facilities"/>
+<feature id="57" name="Indoor pool(s)"/>
+<feature id="58" name="Ironing facilities"/>
+<feature id="59" name="Laundry facilities"/>
+<feature id="61" name="Non-smoking property"/>
+<feature id="63" name="Pets allowed on request"/>
+<feature id="64" name="Sauna"/>
+<feature id="67" name="Spa facilities"/>
+<feature id="68" name="Terrace"/>
+<feature id="202" name="Complimentary newspaper(s)"/>
+<feature id="204" name="Dry Cleaning"/>
+</features>
+<classification>5</classification>
+<distanceTypes>
+<distanceType>
+<hotelDistanceTypeId>2</hotelDistanceTypeId>
+<description>Centre</description>
+<distances>
+<distance>
+<distanceInMeters>0</distanceInMeters>
+<placeName xsi:nil="true"/>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+<distanceType>
+<hotelDistanceTypeId>3</hotelDistanceTypeId>
+<description>Airport</description>
+<distances>
+<distance>
+<distanceInMeters>14500.0</distanceInMeters>
+<placeName>BCN</placeName>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+</distanceTypes>
+<timeZone>01:00</timeZone>
+<isBestBuy>false</isBestBuy>
+</hotel>
+<hotel xsi:type="StaticHotel">
+<hotel.id>46085</hotel.id>
+<destination_id>695</destination_id>
+<resort_id>186</resort_id>
+<transfer>1</transfer>
+<roomtypes>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>18728</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>61635847</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">15397</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>59284370</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">18975</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Double room - Junior</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>1176</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>61635682</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">16095</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>59284276</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">19716</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Double room - De Luxe</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+</roomtypes>
+<notes/>
+<distance xsi:nil="true"/>
+<codes/>
+<type>Hotel</type>
+<name>Gran Derby Suite</name>
+<hotel.addr.1>28CALLE LORETO,</hotel.addr.1>
+<hotel.addr.2/>
+<hotel.addr.zip>08029</hotel.addr.zip>
+<hotel.addr.city>BARCELONA</hotel.addr.city>
+<hotel.addr.state>Barcelona</hotel.addr.state>
+<hotel.addr.country>SPAIN</hotel.addr.country>
+<hotel.addr.countrycode>ES</hotel.addr.countrycode>
+<hotel.address>28CALLE LORETO, 08029 BARCELONA Barcelona SPAIN</hotel.address>
+<hotel.mapurl>This feature is deprecated. We apologize for any inconvenience this may cause.</hotel.mapurl>
+<headline>Located on the upper part of Avenida Diagonal and surrounded by other broad avenues, this is the ideal home base for shopping in the city's most fashionable malls and boutiques</headline>
+<description>Located on the upper part of Avenida Diagonal and surrounded by other broad avenues, this is the ideal home base for shopping in the city's most fashionable malls and boutiques. Just a short stroll away is the Pedralbes monastery and palace, which houses the ceramics and decorative arts museums. The Bus Turístic has a stop right next to the hotel, and the historic city centre is just fifteen minutes away. This unique hotel tempts with restaurants, a café and the cosy Epsom scotch bar and restaurant offering mediterranean cuisine. The comfortable, stylish rooms come with a fully - equipped en suite bathroom, satellite/ cable TV and Internet access. The air-conditioned units also offer a minibar, a double bed and a safe. The hotel has a swimming pool, solarium, gym and sauna.</description>
+<resort>Barcelona</resort>
+<destination>Barcelona</destination>
+<themes/>
+<images>
+<image id="17584956">
+<smallImage url="?id=17584956" height="800" width="800"/>
+</image>
+<image id="17584957">
+<smallImage url="?id=17584957" height="800" width="800"/>
+</image>
+<image id="17584958">
+<smallImage url="?id=17584958" height="800" width="800"/>
+</image>
+<image id="17584959">
+<smallImage url="?id=17584959" height="800" width="800"/>
+</image>
+<image id="17584960">
+<smallImage url="?id=17584960" height="800" width="800"/>
+</image>
+<image id="17584961">
+<smallImage url="?id=17584961" height="800" width="800"/>
+</image>
+<image id="17584962">
+<smallImage url="?id=17584962" height="800" width="800"/>
+</image>
+<image id="17584963">
+<smallImage url="?id=17584963" height="800" width="800"/>
+</image>
+<image id="17584964">
+<smallImage url="?id=17584964" height="800" width="800"/>
+</image>
+<image id="17584965">
+<smallImage url="?id=17584965" height="800" width="800"/>
+</image>
+<image id="17584966">
+<smallImage url="?id=17584966" height="800" width="800"/>
+</image>
+<image id="17584967">
+<smallImage url="?id=17584967" height="800" width="800"/>
+</image>
+<image id="17584968">
+<smallImage url="?id=17584968" height="800" width="800"/>
+</image>
+<image id="17584969">
+<smallImage url="?id=17584969" height="800" width="800"/>
+</image>
+<image id="17584970">
+<smallImage url="?id=17584970" height="800" width="800"/>
+</image>
+<image id="17584971">
+<smallImage url="?id=17584971" height="800" width="800"/>
+</image>
+<image id="17584972">
+<smallImage url="?id=17584972" height="800" width="800"/>
+</image>
+<image id="17584973">
+<smallImage url="?id=17584973" height="800" width="800"/>
+</image>
+<image id="17584974">
+<smallImage url="?id=17584974" height="800" width="800"/>
+</image>
+<image id="17584975">
+<smallImage url="?id=17584975" height="800" width="800"/>
+</image>
+<image id="17584976">
+<smallImage url="?id=17584976" height="800" width="800"/>
+</image>
+<image id="17584977">
+<smallImage url="?id=17584977" height="800" width="800"/>
+</image>
+<image id="17584978">
+<smallImage url="?id=17584978" height="800" width="800"/>
+</image>
+<image id="17584979">
+<smallImage url="?id=17584979" height="800" width="800"/>
+</image>
+<image id="17584980">
+<smallImage url="?id=17584980" height="800" width="800"/>
+</image>
+<image id="17584981">
+<smallImage url="?id=17584981" height="800" width="800"/>
+</image>
+<image id="17584982">
+<smallImage url="?id=17584982" height="800" width="800"/>
+</image>
+<image id="17584983">
+<smallImage url="?id=17584983" height="800" width="800"/>
+</image>
+<image id="17584984">
+<smallImage url="?id=17584984" height="800" width="800"/>
+</image>
+<image id="17584985">
+<smallImage url="?id=17584985" height="800" width="800"/>
+</image>
+<image id="17584986">
+<smallImage url="?id=17584986" height="800" width="800"/>
+</image>
+<image id="17584987">
+<smallImage url="?id=17584987" height="800" width="800"/>
+</image>
+<image id="17584988">
+<smallImage url="?id=17584988" height="800" width="800"/>
+</image>
+<image id="17584989">
+<smallImage url="?id=17584989" height="800" width="800"/>
+</image>
+<image id="17584990">
+<smallImage url="?id=17584990" height="800" width="800"/>
+</image>
+<image id="17584991">
+<smallImage url="?id=17584991" height="800" width="800"/>
+</image>
+<image id="17584992">
+<smallImage url="?id=17584992" height="800" width="800"/>
+</image>
+<image id="17584993">
+<smallImage url="?id=17584993" height="800" width="800"/>
+</image>
+<image id="17584994">
+<smallImage url="?id=17584994" height="800" width="800"/>
+</image>
+<image id="17584995">
+<smallImage url="?id=17584995" height="800" width="800"/>
+</image>
+<image id="17584996">
+<smallImage url="?id=17584996" height="800" width="800"/>
+</image>
+<image id="17584997">
+<smallImage url="?id=17584997" height="800" width="800"/>
+</image>
+<image id="17584998">
+<smallImage url="?id=17584998" height="800" width="800"/>
+</image>
+<image id="17584999">
+<smallImage url="?id=17584999" height="800" width="800"/>
+</image>
+<image id="17585000">
+<smallImage url="?id=17585000" height="800" width="800"/>
+</image>
+<image id="17585001">
+<smallImage url="?id=17585001" height="800" width="800"/>
+</image>
+<image id="17585002">
+<smallImage url="?id=17585002" height="800" width="800"/>
+</image>
+<image id="17585003">
+<smallImage url="?id=17585003" height="800" width="800"/>
+</image>
+<image id="17585004">
+<smallImage url="?id=17585004" height="800" width="800"/>
+</image>
+<image id="17585005">
+<smallImage url="?id=17585005" height="800" width="800"/>
+</image>
+<image id="17585006">
+<smallImage url="?id=17585006" height="800" width="800"/>
+</image>
+<image id="17585007">
+<smallImage url="?id=17585007" height="800" width="800"/>
+</image>
+<image id="17585008">
+<smallImage url="?id=17585008" height="800" width="800"/>
+</image>
+<image id="17585009">
+<smallImage url="?id=17585009" height="800" width="800"/>
+</image>
+<image id="17585010">
+<smallImage url="?id=17585010" height="800" width="800"/>
+</image>
+<image id="17585011">
+<smallImage url="?id=17585011" height="800" width="800"/>
+</image>
+<image id="17585012">
+<smallImage url="?id=17585012" height="800" width="800"/>
+</image>
+<image id="17585013">
+<smallImage url="?id=17585013" height="800" width="800"/>
+</image>
+<image id="17585014">
+<smallImage url="?id=17585014" height="800" width="800"/>
+</image>
+<image id="17585015">
+<smallImage url="?id=17585015" height="800" width="800"/>
+</image>
+<image id="17585016">
+<smallImage url="?id=17585016" height="800" width="800"/>
+</image>
+<image id="17585017">
+<smallImage url="?id=17585017" height="800" width="800"/>
+</image>
+<image id="17585018">
+<smallImage url="?id=17585018" height="800" width="800"/>
+</image>
+<image id="17588635">
+<smallImage url="?id=17588635" height="800" width="800"/>
+</image>
+<image id="17588636">
+<smallImage url="?id=17588636" height="800" width="800"/>
+</image>
+<image id="17588637">
+<smallImage url="?id=17588637" height="800" width="800"/>
+</image>
+<image id="17588638">
+<smallImage url="?id=17588638" height="800" width="800"/>
+</image>
+<image id="17588639">
+<smallImage url="?id=17588639" height="800" width="800"/>
+</image>
+<image id="17588640">
+<smallImage url="?id=17588640" height="800" width="800"/>
+</image>
+<image id="17588641">
+<smallImage url="?id=17588641" height="800" width="800"/>
+</image>
+<image id="17588642">
+<smallImage url="?id=17588642" height="800" width="800"/>
+</image>
+<image id="17588643">
+<smallImage url="?id=17588643" height="800" width="800"/>
+</image>
+<image id="17588644">
+<smallImage url="?id=17588644" height="800" width="800"/>
+</image>
+<image id="17588645">
+<smallImage url="?id=17588645" height="800" width="800"/>
+</image>
+<image id="17588646">
+<smallImage url="?id=17588646" height="800" width="800"/>
+</image>
+<image id="17588647">
+<smallImage url="?id=17588647" height="800" width="800"/>
+</image>
+<image id="17588648">
+<smallImage url="?id=17588648" height="800" width="800"/>
+</image>
+<image id="17588649">
+<smallImage url="?id=17588649" height="800" width="800"/>
+</image>
+<image id="17588650">
+<smallImage url="?id=17588650" height="800" width="800"/>
+</image>
+<image id="17588651">
+<smallImage url="?id=17588651" height="800" width="800"/>
+</image>
+<image id="17588652">
+<smallImage url="?id=17588652" height="800" width="800"/>
+</image>
+<image id="17588653">
+<smallImage url="?id=17588653" height="800" width="800"/>
+</image>
+<image id="17588654">
+<smallImage url="?id=17588654" height="800" width="800"/>
+</image>
+<image id="17588655">
+<smallImage url="?id=17588655" height="800" width="800"/>
+</image>
+<image id="17588656">
+<smallImage url="?id=17588656" height="800" width="800"/>
+</image>
+<image id="17588657">
+<smallImage url="?id=17588657" height="800" width="800"/>
+</image>
+<image id="17588658">
+<smallImage url="?id=17588658" height="800" width="800"/>
+</image>
+<image id="17588659">
+<smallImage url="?id=17588659" height="800" width="800"/>
+</image>
+<image id="17588660">
+<smallImage url="?id=17588660" height="800" width="800"/>
+</image>
+<image id="17588661">
+<smallImage url="?id=17588661" height="800" width="800"/>
+</image>
+<image id="17588662">
+<smallImage url="?id=17588662" height="800" width="800"/>
+</image>
+<image id="17588663">
+<smallImage url="?id=17588663" height="800" width="800"/>
+</image>
+<image id="17588664">
+<smallImage url="?id=17588664" height="800" width="800"/>
+</image>
+<image id="17588665">
+<smallImage url="?id=17588665" height="800" width="800"/>
+</image>
+<image id="17588666">
+<smallImage url="?id=17588666" height="800" width="800"/>
+</image>
+<image id="17588667">
+<smallImage url="?id=17588667" height="800" width="800"/>
+</image>
+<image id="1733020">
+<fullSizeImage url="?id=1733020&full=1" height="600" width="800"/>
+<smallImage url="?id=1733020" height="150" width="200"/>
+</image>
+<image id="1733021">
+<fullSizeImage url="?id=1733021&full=1" height="853" width="1280"/>
+<smallImage url="?id=1733021" height="133" width="200"/>
+</image>
+<image id="1733022">
+<fullSizeImage url="?id=1733022&full=1" height="853" width="1280"/>
+<smallImage url="?id=1733022" height="133" width="200"/>
+</image>
+<image id="1733023">
+<fullSizeImage url="?id=1733023&full=1" height="853" width="1280"/>
+<smallImage url="?id=1733023" height="133" width="200"/>
+</image>
+<image id="1733024">
+<fullSizeImage url="?id=1733024&full=1" height="600" width="800"/>
+<smallImage url="?id=1733024" height="150" width="200"/>
+</image>
+<image id="1733025">
+<fullSizeImage url="?id=1733025&full=1" height="853" width="1280"/>
+<smallImage url="?id=1733025" height="133" width="200"/>
+</image>
+<image id="1733026">
+<fullSizeImage url="?id=1733026&full=1" height="853" width="1280"/>
+<smallImage url="?id=1733026" height="133" width="200"/>
+</image>
+<image id="1733027">
+<fullSizeImage url="?id=1733027&full=1" height="853" width="1280"/>
+<smallImage url="?id=1733027" height="133" width="200"/>
+</image>
+<image id="1733028">
+<fullSizeImage url="?id=1733028&full=1" height="853" width="1280"/>
+<smallImage url="?id=1733028" height="133" width="200"/>
+</image>
+</images>
+<features>
+<feature id="1" name="Air Conditioning"/>
+<feature id="3" name="Bar"/>
+<feature id="4" name="Elevator"/>
+<feature id="5" name="Pool"/>
+<feature id="7" name="Restaurant"/>
+<feature id="8" name="Safe"/>
+<feature id="10" name="Telephone"/>
+<feature id="11" name="TV"/>
+<feature id="12" name="Wireless internet"/>
+<feature id="43" name="24hr reception"/>
+<feature id="44" name="Babysitting services"/>
+<feature id="45" name="Breakfast room"/>
+<feature id="46" name="Business services"/>
+<feature id="47" name="Car parking"/>
+<feature id="48" name="Car parking (chargeable)"/>
+<feature id="50" name="Concierge facilities"/>
+<feature id="51" name="Credit Cards - Amex/Visa/Mastercard"/>
+<feature id="52" name="Currency exchange"/>
+<feature id="53" name="Disabled facilities"/>
+<feature id="55" name="Garden"/>
+<feature id="56" name="Gym/fitness facilities"/>
+<feature id="58" name="Ironing facilities"/>
+<feature id="59" name="Laundry facilities"/>
+<feature id="60" name="Multilingual staff"/>
+<feature id="63" name="Pets allowed on request"/>
+<feature id="64" name="Sauna"/>
+<feature id="65" name="Shop(s)"/>
+<feature id="66" name="Shuttle services"/>
+<feature id="201" name="Conference/banquet facilities"/>
+<feature id="202" name="Complimentary newspaper(s)"/>
+<feature id="203" name="Café"/>
+<feature id="204" name="Dry Cleaning"/>
+<feature id="206" name="Massage"/>
+<feature id="207" name="Lounge area"/>
+</features>
+<classification>4</classification>
+<distanceTypes>
+<distanceType>
+<hotelDistanceTypeId>3</hotelDistanceTypeId>
+<description>Airport</description>
+<distances>
+<distance>
+<distanceInMeters>4000</distanceInMeters>
+<placeName/>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+</distanceTypes>
+<timeZone>01:00</timeZone>
+<isBestBuy>false</isBestBuy>
+</hotel>
+<hotel xsi:type="StaticHotel">
+<hotel.id>130778</hotel.id>
+<destination_id>695</destination_id>
+<resort_id>186</resort_id>
+<transfer>1</transfer>
+<roomtypes>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>2446</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>129213463</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">35975</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>129213501</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">40289</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Junior Suite - Patio view</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+</roomtypes>
+<notes/>
+<distance xsi:nil="true"/>
+<codes/>
+<type>Hotel</type>
+<name>Monument Hotel</name>
+<hotel.addr.1>Passeig de Gràcia 75</hotel.addr.1>
+<hotel.addr.2/>
+<hotel.addr.zip>08008</hotel.addr.zip>
+<hotel.addr.city>Barcelona</hotel.addr.city>
+<hotel.addr.state/>
+<hotel.addr.country>ES</hotel.addr.country>
+<hotel.addr.countrycode>ES</hotel.addr.countrycode>
+<hotel.address>Passeig de Gràcia 75 08008 Barcelona ES</hotel.address>
+<hotel.mapurl>This feature is deprecated. We apologize for any inconvenience this may cause.</hotel.mapurl>
+<headline>With a stay at Monument Hotel in Barcelona (Eixample), you'll be minutes from Casa Enric Batllo and Casa Batllo</headline>
+<description>With a stay at Monument Hotel in Barcelona (Eixample), you'll be minutes from Casa Enric Batllo and Casa Batllo. This 5-star hotel is close to Palau de la Musica Catalana and Sagrada Familia.Rooms Make yourself at home in one of the 84 air-conditioned rooms featuring MP3 docking stations and flat-screen televisions. Rooms have private balconies or patios. Complimentary wired and wireless Internet access keeps you connected, and satellite programming provides entertainment. Private bathrooms with bathtubs feature designer toiletries and hair dryers. Be sure to enjoy recreational amenities including a sauna and a 24-hour fitness center. Additional amenities include complimentary wireless Internet access, concierge services, and babysitting/childcare (surcharge).Dining Enjoy a meal at a restaurant or in a coffee shop/café. Or stay in and take advantage of the hotel's 24-hour room service. Quench your thirst with your favorite drink at a bar/lounge.Business, Other Amenities Featured amenities include complimentary high-speed (wired) Internet access, complimentary newspapers in the lobby, and dry cleaning/laundry services. A roundtrip airport shuttle is provided for a surcharge (available 24 hours). Please note that 1 Michelin Star has been granted to the `Oria` restaurant.</description>
+<resort>Barcelona</resort>
+<destination>Barcelona</destination>
+<themes/>
+<images>
+<image id="20199505">
+<smallImage url="?id=20199505" height="800" width="800"/>
+</image>
+<image id="20199506">
+<smallImage url="?id=20199506" height="800" width="800"/>
+</image>
+<image id="20199507">
+<smallImage url="?id=20199507" height="800" width="800"/>
+</image>
+<image id="20199508">
+<smallImage url="?id=20199508" height="800" width="800"/>
+</image>
+<image id="20199509">
+<smallImage url="?id=20199509" height="800" width="800"/>
+</image>
+<image id="20199510">
+<smallImage url="?id=20199510" height="800" width="800"/>
+</image>
+<image id="20199511">
+<smallImage url="?id=20199511" height="800" width="800"/>
+</image>
+<image id="20199512">
+<smallImage url="?id=20199512" height="800" width="800"/>
+</image>
+<image id="20199513">
+<smallImage url="?id=20199513" height="800" width="800"/>
+</image>
+<image id="20199514">
+<smallImage url="?id=20199514" height="800" width="800"/>
+</image>
+<image id="20199515">
+<smallImage url="?id=20199515" height="800" width="800"/>
+</image>
+<image id="20199516">
+<smallImage url="?id=20199516" height="800" width="800"/>
+</image>
+<image id="20199517">
+<smallImage url="?id=20199517" height="800" width="800"/>
+</image>
+<image id="20199518">
+<smallImage url="?id=20199518" height="800" width="800"/>
+</image>
+<image id="20199519">
+<smallImage url="?id=20199519" height="800" width="800"/>
+</image>
+<image id="20199520">
+<smallImage url="?id=20199520" height="800" width="800"/>
+</image>
+<image id="20199521">
+<smallImage url="?id=20199521" height="800" width="800"/>
+</image>
+<image id="20199522">
+<smallImage url="?id=20199522" height="800" width="800"/>
+</image>
+<image id="20199523">
+<smallImage url="?id=20199523" height="800" width="800"/>
+</image>
+<image id="20199524">
+<smallImage url="?id=20199524" height="800" width="800"/>
+</image>
+<image id="20199525">
+<smallImage url="?id=20199525" height="800" width="800"/>
+</image>
+<image id="20199526">
+<smallImage url="?id=20199526" height="800" width="800"/>
+</image>
+<image id="20199527">
+<smallImage url="?id=20199527" height="800" width="800"/>
+</image>
+<image id="20199528">
+<smallImage url="?id=20199528" height="800" width="800"/>
+</image>
+<image id="20199529">
+<smallImage url="?id=20199529" height="800" width="800"/>
+</image>
+<image id="20199530">
+<smallImage url="?id=20199530" height="800" width="800"/>
+</image>
+<image id="20199531">
+<smallImage url="?id=20199531" height="800" width="800"/>
+</image>
+<image id="20199532">
+<smallImage url="?id=20199532" height="800" width="800"/>
+</image>
+<image id="20199533">
+<smallImage url="?id=20199533" height="800" width="800"/>
+</image>
+<image id="20199534">
+<smallImage url="?id=20199534" height="800" width="800"/>
+</image>
+<image id="20199535">
+<smallImage url="?id=20199535" height="800" width="800"/>
+</image>
+<image id="20199536">
+<smallImage url="?id=20199536" height="800" width="800"/>
+</image>
+<image id="20199537">
+<smallImage url="?id=20199537" height="800" width="800"/>
+</image>
+<image id="20199538">
+<smallImage url="?id=20199538" height="800" width="800"/>
+</image>
+<image id="20199539">
+<smallImage url="?id=20199539" height="800" width="800"/>
+</image>
+<image id="20199540">
+<smallImage url="?id=20199540" height="800" width="800"/>
+</image>
+<image id="20199541">
+<smallImage url="?id=20199541" height="800" width="800"/>
+</image>
+<image id="20199542">
+<smallImage url="?id=20199542" height="800" width="800"/>
+</image>
+<image id="20199543">
+<smallImage url="?id=20199543" height="800" width="800"/>
+</image>
+<image id="20199544">
+<smallImage url="?id=20199544" height="800" width="800"/>
+</image>
+<image id="20199545">
+<smallImage url="?id=20199545" height="800" width="800"/>
+</image>
+<image id="20199546">
+<smallImage url="?id=20199546" height="800" width="800"/>
+</image>
+<image id="20199547">
+<smallImage url="?id=20199547" height="800" width="800"/>
+</image>
+<image id="20199548">
+<smallImage url="?id=20199548" height="800" width="800"/>
+</image>
+<image id="20199549">
+<smallImage url="?id=20199549" height="800" width="800"/>
+</image>
+<image id="20199550">
+<smallImage url="?id=20199550" height="800" width="800"/>
+</image>
+<image id="20199551">
+<smallImage url="?id=20199551" height="800" width="800"/>
+</image>
+<image id="20199552">
+<smallImage url="?id=20199552" height="800" width="800"/>
+</image>
+<image id="20199553">
+<smallImage url="?id=20199553" height="800" width="800"/>
+</image>
+<image id="20199554">
+<smallImage url="?id=20199554" height="800" width="800"/>
+</image>
+<image id="20199555">
+<smallImage url="?id=20199555" height="800" width="800"/>
+</image>
+<image id="20199556">
+<smallImage url="?id=20199556" height="800" width="800"/>
+</image>
+<image id="20199557">
+<smallImage url="?id=20199557" height="800" width="800"/>
+</image>
+<image id="20199558">
+<smallImage url="?id=20199558" height="800" width="800"/>
+</image>
+<image id="20199559">
+<smallImage url="?id=20199559" height="800" width="800"/>
+</image>
+<image id="20199560">
+<smallImage url="?id=20199560" height="800" width="800"/>
+</image>
+<image id="20199561">
+<smallImage url="?id=20199561" height="800" width="800"/>
+</image>
+<image id="20199562">
+<smallImage url="?id=20199562" height="800" width="800"/>
+</image>
+<image id="20199563">
+<smallImage url="?id=20199563" height="800" width="800"/>
+</image>
+<image id="20199564">
+<smallImage url="?id=20199564" height="800" width="800"/>
+</image>
+<image id="20199565">
+<smallImage url="?id=20199565" height="800" width="800"/>
+</image>
+<image id="20199566">
+<smallImage url="?id=20199566" height="800" width="800"/>
+</image>
+<image id="20199567">
+<smallImage url="?id=20199567" height="800" width="800"/>
+</image>
+<image id="20199568">
+<smallImage url="?id=20199568" height="800" width="800"/>
+</image>
+<image id="20199569">
+<smallImage url="?id=20199569" height="800" width="800"/>
+</image>
+<image id="20199570">
+<smallImage url="?id=20199570" height="800" width="800"/>
+</image>
+<image id="20199571">
+<smallImage url="?id=20199571" height="800" width="800"/>
+</image>
+<image id="20199572">
+<smallImage url="?id=20199572" height="800" width="800"/>
+</image>
+<image id="20199573">
+<smallImage url="?id=20199573" height="800" width="800"/>
+</image>
+<image id="20199574">
+<smallImage url="?id=20199574" height="800" width="800"/>
+</image>
+<image id="20199575">
+<smallImage url="?id=20199575" height="800" width="800"/>
+</image>
+<image id="20199576">
+<smallImage url="?id=20199576" height="800" width="800"/>
+</image>
+<image id="20199577">
+<smallImage url="?id=20199577" height="800" width="800"/>
+</image>
+<image id="20199578">
+<smallImage url="?id=20199578" height="800" width="800"/>
+</image>
+<image id="20199579">
+<smallImage url="?id=20199579" height="800" width="800"/>
+</image>
+<image id="20199580">
+<smallImage url="?id=20199580" height="800" width="800"/>
+</image>
+<image id="20199581">
+<smallImage url="?id=20199581" height="800" width="800"/>
+</image>
+<image id="20199582">
+<smallImage url="?id=20199582" height="800" width="800"/>
+</image>
+<image id="20199583">
+<smallImage url="?id=20199583" height="800" width="800"/>
+</image>
+<image id="20199584">
+<smallImage url="?id=20199584" height="800" width="800"/>
+</image>
+<image id="20199585">
+<smallImage url="?id=20199585" height="800" width="800"/>
+</image>
+<image id="20199586">
+<smallImage url="?id=20199586" height="800" width="800"/>
+</image>
+<image id="20199587">
+<smallImage url="?id=20199587" height="800" width="800"/>
+</image>
+<image id="20199588">
+<smallImage url="?id=20199588" height="800" width="800"/>
+</image>
+<image id="20199589">
+<smallImage url="?id=20199589" height="800" width="800"/>
+</image>
+<image id="20199590">
+<smallImage url="?id=20199590" height="800" width="800"/>
+</image>
+<image id="20199591">
+<smallImage url="?id=20199591" height="800" width="800"/>
+</image>
+<image id="20199592">
+<smallImage url="?id=20199592" height="800" width="800"/>
+</image>
+<image id="20199593">
+<smallImage url="?id=20199593" height="800" width="800"/>
+</image>
+<image id="20199594">
+<smallImage url="?id=20199594" height="800" width="800"/>
+</image>
+<image id="20199595">
+<smallImage url="?id=20199595" height="800" width="800"/>
+</image>
+<image id="20199596">
+<smallImage url="?id=20199596" height="800" width="800"/>
+</image>
+<image id="20199597">
+<smallImage url="?id=20199597" height="800" width="800"/>
+</image>
+<image id="20199598">
+<smallImage url="?id=20199598" height="800" width="800"/>
+</image>
+<image id="20199599">
+<smallImage url="?id=20199599" height="800" width="800"/>
+</image>
+<image id="20199600">
+<smallImage url="?id=20199600" height="800" width="800"/>
+</image>
+<image id="20199601">
+<smallImage url="?id=20199601" height="800" width="800"/>
+</image>
+<image id="20199602">
+<smallImage url="?id=20199602" height="800" width="800"/>
+</image>
+<image id="20199603">
+<smallImage url="?id=20199603" height="800" width="800"/>
+</image>
+<image id="20195037">
+<smallImage url="?id=20195037" height="800" width="800"/>
+</image>
+<image id="20195038">
+<smallImage url="?id=20195038" height="800" width="800"/>
+</image>
+<image id="20195039">
+<smallImage url="?id=20195039" height="800" width="800"/>
+</image>
+<image id="20195040">
+<smallImage url="?id=20195040" height="800" width="800"/>
+</image>
+<image id="20195041">
+<smallImage url="?id=20195041" height="800" width="800"/>
+</image>
+<image id="20195042">
+<smallImage url="?id=20195042" height="800" width="800"/>
+</image>
+<image id="20195043">
+<smallImage url="?id=20195043" height="800" width="800"/>
+</image>
+<image id="20195044">
+<smallImage url="?id=20195044" height="800" width="800"/>
+</image>
+<image id="20195045">
+<smallImage url="?id=20195045" height="800" width="800"/>
+</image>
+<image id="20195046">
+<smallImage url="?id=20195046" height="800" width="800"/>
+</image>
+<image id="20195047">
+<smallImage url="?id=20195047" height="800" width="800"/>
+</image>
+<image id="20195048">
+<smallImage url="?id=20195048" height="800" width="800"/>
+</image>
+<image id="20195049">
+<smallImage url="?id=20195049" height="800" width="800"/>
+</image>
+<image id="20195050">
+<smallImage url="?id=20195050" height="800" width="800"/>
+</image>
+<image id="20195051">
+<smallImage url="?id=20195051" height="800" width="800"/>
+</image>
+<image id="20195052">
+<smallImage url="?id=20195052" height="800" width="800"/>
+</image>
+<image id="20195053">
+<smallImage url="?id=20195053" height="800" width="800"/>
+</image>
+<image id="20195054">
+<smallImage url="?id=20195054" height="800" width="800"/>
+</image>
+<image id="20195055">
+<smallImage url="?id=20195055" height="800" width="800"/>
+</image>
+<image id="20195056">
+<smallImage url="?id=20195056" height="800" width="800"/>
+</image>
+<image id="20195057">
+<smallImage url="?id=20195057" height="800" width="800"/>
+</image>
+<image id="20195058">
+<smallImage url="?id=20195058" height="800" width="800"/>
+</image>
+<image id="20195059">
+<smallImage url="?id=20195059" height="800" width="800"/>
+</image>
+<image id="20195060">
+<smallImage url="?id=20195060" height="800" width="800"/>
+</image>
+<image id="20195061">
+<smallImage url="?id=20195061" height="800" width="800"/>
+</image>
+<image id="20195062">
+<smallImage url="?id=20195062" height="800" width="800"/>
+</image>
+<image id="20195063">
+<smallImage url="?id=20195063" height="800" width="800"/>
+</image>
+<image id="20195064">
+<smallImage url="?id=20195064" height="800" width="800"/>
+</image>
+<image id="20195065">
+<smallImage url="?id=20195065" height="800" width="800"/>
+</image>
+<image id="20195066">
+<smallImage url="?id=20195066" height="800" width="800"/>
+</image>
+<image id="20195067">
+<smallImage url="?id=20195067" height="800" width="800"/>
+</image>
+<image id="20195068">
+<smallImage url="?id=20195068" height="800" width="800"/>
+</image>
+<image id="20195069">
+<smallImage url="?id=20195069" height="800" width="800"/>
+</image>
+<image id="20195070">
+<smallImage url="?id=20195070" height="800" width="800"/>
+</image>
+<image id="20195071">
+<smallImage url="?id=20195071" height="800" width="800"/>
+</image>
+<image id="20195072">
+<smallImage url="?id=20195072" height="800" width="800"/>
+</image>
+<image id="20195073">
+<smallImage url="?id=20195073" height="800" width="800"/>
+</image>
+<image id="20195074">
+<smallImage url="?id=20195074" height="800" width="800"/>
+</image>
+<image id="20195075">
+<smallImage url="?id=20195075" height="800" width="800"/>
+</image>
+<image id="20195076">
+<smallImage url="?id=20195076" height="800" width="800"/>
+</image>
+<image id="20195077">
+<smallImage url="?id=20195077" height="800" width="800"/>
+</image>
+<image id="20195078">
+<smallImage url="?id=20195078" height="800" width="800"/>
+</image>
+<image id="20195079">
+<smallImage url="?id=20195079" height="800" width="800"/>
+</image>
+<image id="20195080">
+<smallImage url="?id=20195080" height="800" width="800"/>
+</image>
+<image id="24144949">
+<fullSizeImage url="?id=24144949&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24144949" height="800" width="800"/>
+</image>
+<image id="24144950">
+<fullSizeImage url="?id=24144950&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24144950" height="800" width="800"/>
+</image>
+<image id="24144951">
+<fullSizeImage url="?id=24144951&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24144951" height="800" width="800"/>
+</image>
+<image id="24144952">
+<fullSizeImage url="?id=24144952&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24144952" height="800" width="800"/>
+</image>
+<image id="24144953">
+<fullSizeImage url="?id=24144953&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24144953" height="800" width="800"/>
+</image>
+<image id="24144954">
+<fullSizeImage url="?id=24144954&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24144954" height="800" width="800"/>
+</image>
+<image id="24144955">
+<fullSizeImage url="?id=24144955&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24144955" height="800" width="800"/>
+</image>
+<image id="24145208">
+<fullSizeImage url="?id=24145208&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145208" height="800" width="800"/>
+</image>
+<image id="24145209">
+<fullSizeImage url="?id=24145209&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145209" height="800" width="800"/>
+</image>
+<image id="24145210">
+<fullSizeImage url="?id=24145210&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145210" height="800" width="800"/>
+</image>
+<image id="24145211">
+<fullSizeImage url="?id=24145211&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145211" height="800" width="800"/>
+</image>
+<image id="24145212">
+<fullSizeImage url="?id=24145212&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145212" height="800" width="800"/>
+</image>
+<image id="24145213">
+<fullSizeImage url="?id=24145213&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145213" height="800" width="800"/>
+</image>
+<image id="24145214">
+<fullSizeImage url="?id=24145214&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145214" height="800" width="800"/>
+</image>
+<image id="24145215">
+<fullSizeImage url="?id=24145215&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145215" height="800" width="800"/>
+</image>
+<image id="24145216">
+<fullSizeImage url="?id=24145216&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145216" height="800" width="800"/>
+</image>
+<image id="24145217">
+<fullSizeImage url="?id=24145217&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145217" height="800" width="800"/>
+</image>
+<image id="24145218">
+<fullSizeImage url="?id=24145218&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145218" height="800" width="800"/>
+</image>
+<image id="24145219">
+<fullSizeImage url="?id=24145219&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145219" height="800" width="800"/>
+</image>
+<image id="24145220">
+<fullSizeImage url="?id=24145220&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145220" height="800" width="800"/>
+</image>
+<image id="24145221">
+<fullSizeImage url="?id=24145221&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145221" height="800" width="800"/>
+</image>
+<image id="24145222">
+<fullSizeImage url="?id=24145222&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145222" height="800" width="800"/>
+</image>
+<image id="24145223">
+<fullSizeImage url="?id=24145223&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145223" height="800" width="800"/>
+</image>
+<image id="24145224">
+<fullSizeImage url="?id=24145224&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145224" height="800" width="800"/>
+</image>
+<image id="24145225">
+<fullSizeImage url="?id=24145225&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145225" height="800" width="800"/>
+</image>
+<image id="24145226">
+<fullSizeImage url="?id=24145226&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145226" height="800" width="800"/>
+</image>
+<image id="24145227">
+<fullSizeImage url="?id=24145227&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145227" height="800" width="800"/>
+</image>
+<image id="24145228">
+<fullSizeImage url="?id=24145228&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145228" height="800" width="800"/>
+</image>
+<image id="24145229">
+<fullSizeImage url="?id=24145229&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145229" height="800" width="800"/>
+</image>
+<image id="24145230">
+<fullSizeImage url="?id=24145230&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145230" height="800" width="800"/>
+</image>
+<image id="24145231">
+<fullSizeImage url="?id=24145231&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145231" height="800" width="800"/>
+</image>
+<image id="24145232">
+<fullSizeImage url="?id=24145232&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145232" height="800" width="800"/>
+</image>
+<image id="24145233">
+<fullSizeImage url="?id=24145233&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145233" height="800" width="800"/>
+</image>
+<image id="24145234">
+<fullSizeImage url="?id=24145234&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145234" height="800" width="800"/>
+</image>
+<image id="24145235">
+<fullSizeImage url="?id=24145235&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145235" height="800" width="800"/>
+</image>
+<image id="24145236">
+<fullSizeImage url="?id=24145236&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145236" height="800" width="800"/>
+</image>
+<image id="24145237">
+<fullSizeImage url="?id=24145237&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145237" height="800" width="800"/>
+</image>
+<image id="24145238">
+<fullSizeImage url="?id=24145238&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145238" height="800" width="800"/>
+</image>
+<image id="24145239">
+<fullSizeImage url="?id=24145239&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145239" height="800" width="800"/>
+</image>
+<image id="24145240">
+<fullSizeImage url="?id=24145240&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145240" height="800" width="800"/>
+</image>
+<image id="24145241">
+<fullSizeImage url="?id=24145241&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145241" height="800" width="800"/>
+</image>
+<image id="24145242">
+<fullSizeImage url="?id=24145242&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145242" height="800" width="800"/>
+</image>
+<image id="24145243">
+<fullSizeImage url="?id=24145243&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145243" height="800" width="800"/>
+</image>
+<image id="24145244">
+<fullSizeImage url="?id=24145244&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145244" height="800" width="800"/>
+</image>
+<image id="24145245">
+<fullSizeImage url="?id=24145245&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145245" height="800" width="800"/>
+</image>
+<image id="24145246">
+<fullSizeImage url="?id=24145246&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145246" height="800" width="800"/>
+</image>
+<image id="24145247">
+<fullSizeImage url="?id=24145247&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145247" height="800" width="800"/>
+</image>
+<image id="24145248">
+<fullSizeImage url="?id=24145248&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145248" height="800" width="800"/>
+</image>
+<image id="24145249">
+<fullSizeImage url="?id=24145249&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145249" height="800" width="800"/>
+</image>
+<image id="24145250">
+<fullSizeImage url="?id=24145250&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145250" height="800" width="800"/>
+</image>
+<image id="24145251">
+<fullSizeImage url="?id=24145251&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145251" height="800" width="800"/>
+</image>
+<image id="24145252">
+<fullSizeImage url="?id=24145252&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145252" height="800" width="800"/>
+</image>
+<image id="24145253">
+<fullSizeImage url="?id=24145253&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145253" height="800" width="800"/>
+</image>
+<image id="24145254">
+<fullSizeImage url="?id=24145254&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145254" height="800" width="800"/>
+</image>
+<image id="24145255">
+<fullSizeImage url="?id=24145255&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145255" height="800" width="800"/>
+</image>
+<image id="24145256">
+<fullSizeImage url="?id=24145256&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145256" height="800" width="800"/>
+</image>
+<image id="24145257">
+<fullSizeImage url="?id=24145257&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145257" height="800" width="800"/>
+</image>
+<image id="24145258">
+<fullSizeImage url="?id=24145258&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145258" height="800" width="800"/>
+</image>
+<image id="24145259">
+<fullSizeImage url="?id=24145259&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145259" height="800" width="800"/>
+</image>
+<image id="24145260">
+<fullSizeImage url="?id=24145260&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145260" height="800" width="800"/>
+</image>
+<image id="24145261">
+<fullSizeImage url="?id=24145261&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145261" height="800" width="800"/>
+</image>
+<image id="24145262">
+<fullSizeImage url="?id=24145262&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145262" height="800" width="800"/>
+</image>
+<image id="24145263">
+<fullSizeImage url="?id=24145263&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145263" height="800" width="800"/>
+</image>
+<image id="24145264">
+<fullSizeImage url="?id=24145264&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145264" height="800" width="800"/>
+</image>
+<image id="24145265">
+<fullSizeImage url="?id=24145265&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145265" height="800" width="800"/>
+</image>
+<image id="24145266">
+<fullSizeImage url="?id=24145266&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145266" height="800" width="800"/>
+</image>
+<image id="24145267">
+<fullSizeImage url="?id=24145267&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145267" height="800" width="800"/>
+</image>
+<image id="24145268">
+<fullSizeImage url="?id=24145268&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145268" height="800" width="800"/>
+</image>
+<image id="24145269">
+<fullSizeImage url="?id=24145269&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145269" height="800" width="800"/>
+</image>
+<image id="24145270">
+<fullSizeImage url="?id=24145270&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145270" height="800" width="800"/>
+</image>
+<image id="24145271">
+<fullSizeImage url="?id=24145271&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145271" height="800" width="800"/>
+</image>
+<image id="24145272">
+<fullSizeImage url="?id=24145272&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145272" height="800" width="800"/>
+</image>
+<image id="24145273">
+<fullSizeImage url="?id=24145273&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145273" height="800" width="800"/>
+</image>
+<image id="24145274">
+<fullSizeImage url="?id=24145274&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145274" height="800" width="800"/>
+</image>
+<image id="24145275">
+<fullSizeImage url="?id=24145275&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145275" height="800" width="800"/>
+</image>
+<image id="24145276">
+<fullSizeImage url="?id=24145276&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145276" height="800" width="800"/>
+</image>
+<image id="24145277">
+<fullSizeImage url="?id=24145277&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145277" height="800" width="800"/>
+</image>
+<image id="24145278">
+<fullSizeImage url="?id=24145278&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145278" height="800" width="800"/>
+</image>
+<image id="24145279">
+<fullSizeImage url="?id=24145279&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145279" height="800" width="800"/>
+</image>
+<image id="24145280">
+<fullSizeImage url="?id=24145280&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145280" height="800" width="800"/>
+</image>
+<image id="24145281">
+<fullSizeImage url="?id=24145281&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145281" height="800" width="800"/>
+</image>
+<image id="24145282">
+<fullSizeImage url="?id=24145282&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145282" height="800" width="800"/>
+</image>
+<image id="24145283">
+<fullSizeImage url="?id=24145283&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145283" height="800" width="800"/>
+</image>
+<image id="24145284">
+<fullSizeImage url="?id=24145284&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145284" height="800" width="800"/>
+</image>
+<image id="24145285">
+<fullSizeImage url="?id=24145285&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145285" height="800" width="800"/>
+</image>
+<image id="24145286">
+<fullSizeImage url="?id=24145286&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145286" height="800" width="800"/>
+</image>
+<image id="24145287">
+<fullSizeImage url="?id=24145287&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145287" height="800" width="800"/>
+</image>
+<image id="24145288">
+<fullSizeImage url="?id=24145288&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145288" height="800" width="800"/>
+</image>
+<image id="24145289">
+<fullSizeImage url="?id=24145289&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145289" height="800" width="800"/>
+</image>
+<image id="24145290">
+<fullSizeImage url="?id=24145290&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145290" height="800" width="800"/>
+</image>
+<image id="24145291">
+<fullSizeImage url="?id=24145291&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145291" height="800" width="800"/>
+</image>
+<image id="24145292">
+<fullSizeImage url="?id=24145292&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145292" height="800" width="800"/>
+</image>
+<image id="24145293">
+<fullSizeImage url="?id=24145293&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145293" height="800" width="800"/>
+</image>
+<image id="24145294">
+<fullSizeImage url="?id=24145294&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145294" height="800" width="800"/>
+</image>
+<image id="24145295">
+<fullSizeImage url="?id=24145295&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145295" height="800" width="800"/>
+</image>
+<image id="24145296">
+<fullSizeImage url="?id=24145296&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145296" height="800" width="800"/>
+</image>
+<image id="24145297">
+<fullSizeImage url="?id=24145297&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145297" height="800" width="800"/>
+</image>
+<image id="24145298">
+<fullSizeImage url="?id=24145298&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145298" height="800" width="800"/>
+</image>
+<image id="24145299">
+<fullSizeImage url="?id=24145299&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145299" height="800" width="800"/>
+</image>
+<image id="24145300">
+<fullSizeImage url="?id=24145300&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145300" height="800" width="800"/>
+</image>
+<image id="24145301">
+<fullSizeImage url="?id=24145301&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145301" height="800" width="800"/>
+</image>
+<image id="24145302">
+<fullSizeImage url="?id=24145302&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145302" height="800" width="800"/>
+</image>
+<image id="24145303">
+<fullSizeImage url="?id=24145303&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145303" height="800" width="800"/>
+</image>
+<image id="24145304">
+<fullSizeImage url="?id=24145304&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145304" height="800" width="800"/>
+</image>
+<image id="24145305">
+<fullSizeImage url="?id=24145305&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145305" height="800" width="800"/>
+</image>
+<image id="24145306">
+<fullSizeImage url="?id=24145306&full=1" height="1000" width="1000"/>
+<smallImage url="?id=24145306" height="800" width="800"/>
+</image>
+<image id="4383067">
+<fullSizeImage url="?id=4383067&full=1" height="853" width="1280"/>
+<smallImage url="?id=4383067" height="133" width="200"/>
+</image>
+<image id="4383064">
+<fullSizeImage url="?id=4383064&full=1" height="853" width="1280"/>
+<smallImage url="?id=4383064" height="133" width="200"/>
+</image>
+<image id="4383060">
+<fullSizeImage url="?id=4383060&full=1" height="853" width="1280"/>
+<smallImage url="?id=4383060" height="133" width="200"/>
+</image>
+<image id="4383063">
+<fullSizeImage url="?id=4383063&full=1" height="853" width="1280"/>
+<smallImage url="?id=4383063" height="133" width="200"/>
+</image>
+<image id="4383065">
+<fullSizeImage url="?id=4383065&full=1" height="853" width="1280"/>
+<smallImage url="?id=4383065" height="133" width="200"/>
+</image>
+<image id="4383062">
+<fullSizeImage url="?id=4383062&full=1" height="853" width="1280"/>
+<smallImage url="?id=4383062" height="133" width="200"/>
+</image>
+<image id="4383059">
+<fullSizeImage url="?id=4383059&full=1" height="853" width="1280"/>
+<smallImage url="?id=4383059" height="133" width="200"/>
+</image>
+<image id="4383061">
+<fullSizeImage url="?id=4383061&full=1" height="853" width="1280"/>
+<smallImage url="?id=4383061" height="133" width="200"/>
+</image>
+<image id="4383066">
+<fullSizeImage url="?id=4383066&full=1" height="853" width="1280"/>
+<smallImage url="?id=4383066" height="133" width="200"/>
+</image>
+<image id="8373936">
+<fullSizeImage url="?id=8373936&full=1" height="1368" width="2000"/>
+<smallImage url="?id=8373936" height="600" width="800"/>
+</image>
+<image id="8373937">
+<fullSizeImage url="?id=8373937&full=1" height="2000" width="1756"/>
+<smallImage url="?id=8373937" height="911" width="800"/>
+</image>
+<image id="8373938">
+<fullSizeImage url="?id=8373938&full=1" height="1459" width="2000"/>
+<smallImage url="?id=8373938" height="600" width="800"/>
+</image>
+<image id="8373939">
+<fullSizeImage url="?id=8373939&full=1" height="1341" width="2000"/>
+<smallImage url="?id=8373939" height="600" width="800"/>
+</image>
+<image id="8373940">
+<fullSizeImage url="?id=8373940&full=1" height="1332" width="2000"/>
+<smallImage url="?id=8373940" height="600" width="800"/>
+</image>
+<image id="8373941">
+<fullSizeImage url="?id=8373941&full=1" height="1420" width="2000"/>
+<smallImage url="?id=8373941" height="600" width="800"/>
+</image>
+<image id="8373942">
+<fullSizeImage url="?id=8373942&full=1" height="1258" width="2000"/>
+<smallImage url="?id=8373942" height="600" width="800"/>
+</image>
+<image id="8373943">
+<fullSizeImage url="?id=8373943&full=1" height="1332" width="2000"/>
+<smallImage url="?id=8373943" height="600" width="800"/>
+</image>
+<image id="8373944">
+<fullSizeImage url="?id=8373944&full=1" height="1408" width="2000"/>
+<smallImage url="?id=8373944" height="600" width="800"/>
+</image>
+<image id="8373945">
+<fullSizeImage url="?id=8373945&full=1" height="2000" width="1835"/>
+<smallImage url="?id=8373945" height="871" width="800"/>
+</image>
+<image id="8373946">
+<fullSizeImage url="?id=8373946&full=1" height="2000" width="1523"/>
+<smallImage url="?id=8373946" height="1050" width="800"/>
+</image>
+<image id="8373947">
+<fullSizeImage url="?id=8373947&full=1" height="1313" width="2000"/>
+<smallImage url="?id=8373947" height="600" width="800"/>
+</image>
+<image id="8373948">
+<fullSizeImage url="?id=8373948&full=1" height="2000" width="1533"/>
+<smallImage url="?id=8373948" height="1043" width="800"/>
+</image>
+<image id="8373949">
+<fullSizeImage url="?id=8373949&full=1" height="1268" width="2000"/>
+<smallImage url="?id=8373949" height="600" width="800"/>
+</image>
+<image id="8373950">
+<fullSizeImage url="?id=8373950&full=1" height="1226" width="2000"/>
+<smallImage url="?id=8373950" height="600" width="800"/>
+</image>
+<image id="8373951">
+<fullSizeImage url="?id=8373951&full=1" height="1346" width="2000"/>
+<smallImage url="?id=8373951" height="600" width="800"/>
+</image>
+<image id="8373952">
+<fullSizeImage url="?id=8373952&full=1" height="1335" width="2000"/>
+<smallImage url="?id=8373952" height="600" width="800"/>
+</image>
+<image id="8373953">
+<fullSizeImage url="?id=8373953&full=1" height="1682" width="2000"/>
+<smallImage url="?id=8373953" height="600" width="800"/>
+</image>
+<image id="8373954">
+<fullSizeImage url="?id=8373954&full=1" height="1242" width="2000"/>
+<smallImage url="?id=8373954" height="600" width="800"/>
+</image>
+<image id="8373955">
+<fullSizeImage url="?id=8373955&full=1" height="1146" width="2000"/>
+<smallImage url="?id=8373955" height="600" width="800"/>
+</image>
+<image id="8373956">
+<fullSizeImage url="?id=8373956&full=1" height="1332" width="2000"/>
+<smallImage url="?id=8373956" height="600" width="800"/>
+</image>
+<image id="8373957">
+<fullSizeImage url="?id=8373957&full=1" height="1238" width="2000"/>
+<smallImage url="?id=8373957" height="600" width="800"/>
+</image>
+<image id="8373958">
+<fullSizeImage url="?id=8373958&full=1" height="1421" width="2000"/>
+<smallImage url="?id=8373958" height="600" width="800"/>
+</image>
+<image id="8373959">
+<fullSizeImage url="?id=8373959&full=1" height="1123" width="2000"/>
+<smallImage url="?id=8373959" height="600" width="800"/>
+</image>
+<image id="8373960">
+<fullSizeImage url="?id=8373960&full=1" height="1296" width="2000"/>
+<smallImage url="?id=8373960" height="600" width="800"/>
+</image>
+<image id="8373961">
+<fullSizeImage url="?id=8373961&full=1" height="2000" width="1470"/>
+<smallImage url="?id=8373961" height="1088" width="800"/>
+</image>
+<image id="8373962">
+<fullSizeImage url="?id=8373962&full=1" height="1336" width="2000"/>
+<smallImage url="?id=8373962" height="600" width="800"/>
+</image>
+<image id="8373963">
+<fullSizeImage url="?id=8373963&full=1" height="1426" width="2000"/>
+<smallImage url="?id=8373963" height="600" width="800"/>
+</image>
+<image id="8373964">
+<fullSizeImage url="?id=8373964&full=1" height="2000" width="1431"/>
+<smallImage url="?id=8373964" height="1118" width="800"/>
+</image>
+<image id="8373965">
+<fullSizeImage url="?id=8373965&full=1" height="2000" width="1397"/>
+<smallImage url="?id=8373965" height="1145" width="800"/>
+</image>
+<image id="8373966">
+<fullSizeImage url="?id=8373966&full=1" height="2000" width="1636"/>
+<smallImage url="?id=8373966" height="977" width="800"/>
+</image>
+<image id="8373967">
+<fullSizeImage url="?id=8373967&full=1" height="1385" width="2000"/>
+<smallImage url="?id=8373967" height="600" width="800"/>
+</image>
+<image id="8373968">
+<fullSizeImage url="?id=8373968&full=1" height="1185" width="2000"/>
+<smallImage url="?id=8373968" height="600" width="800"/>
+</image>
+<image id="8373969">
+<fullSizeImage url="?id=8373969&full=1" height="1340" width="2000"/>
+<smallImage url="?id=8373969" height="600" width="800"/>
+</image>
+<image id="8373970">
+<fullSizeImage url="?id=8373970&full=1" height="1333" width="2000"/>
+<smallImage url="?id=8373970" height="600" width="800"/>
+</image>
+<image id="8373971">
+<fullSizeImage url="?id=8373971&full=1" height="1334" width="2000"/>
+<smallImage url="?id=8373971" height="600" width="800"/>
+</image>
+<image id="8373972">
+<fullSizeImage url="?id=8373972&full=1" height="1217" width="2000"/>
+<smallImage url="?id=8373972" height="600" width="800"/>
+</image>
+<image id="8373973">
+<fullSizeImage url="?id=8373973&full=1" height="1335" width="2000"/>
+<smallImage url="?id=8373973" height="600" width="800"/>
+</image>
+<image id="8373974">
+<fullSizeImage url="?id=8373974&full=1" height="2000" width="1365"/>
+<smallImage url="?id=8373974" height="1172" width="800"/>
+</image>
+<image id="8373975">
+<fullSizeImage url="?id=8373975&full=1" height="2000" width="1636"/>
+<smallImage url="?id=8373975" height="977" width="800"/>
+</image>
+<image id="8373976">
+<fullSizeImage url="?id=8373976&full=1" height="1363" width="2000"/>
+<smallImage url="?id=8373976" height="600" width="800"/>
+</image>
+<image id="8373977">
+<fullSizeImage url="?id=8373977&full=1" height="1210" width="2000"/>
+<smallImage url="?id=8373977" height="600" width="800"/>
+</image>
+<image id="8373978">
+<fullSizeImage url="?id=8373978&full=1" height="1252" width="2000"/>
+<smallImage url="?id=8373978" height="600" width="800"/>
+</image>
+</images>
+<features>
+<feature id="1" name="Air Conditioning"/>
+<feature id="3" name="Bar"/>
+<feature id="4" name="Elevator"/>
+<feature id="7" name="Restaurant"/>
+<feature id="8" name="Safe"/>
+<feature id="10" name="Telephone"/>
+<feature id="11" name="TV"/>
+<feature id="12" name="Wireless internet"/>
+<feature id="42" name="24hr check-in"/>
+<feature id="46" name="Business services"/>
+<feature id="50" name="Concierge facilities"/>
+<feature id="56" name="Gym/fitness facilities"/>
+<feature id="58" name="Ironing facilities"/>
+<feature id="59" name="Laundry facilities"/>
+</features>
+<classification>5</classification>
+<distanceTypes/>
+<timeZone>01:00</timeZone>
+<isBestBuy>false</isBestBuy>
+</hotel>
+<hotel xsi:type="StaticHotel">
+<hotel.id>10776</hotel.id>
+<destination_id>695</destination_id>
+<resort_id>186</resort_id>
+<transfer>1</transfer>
+<roomtypes>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>2254</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>107969902</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">13516</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>107969967</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">15953</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Double room - small</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+</roomtypes>
+<notes/>
+<distance xsi:nil="true"/>
+<codes/>
+<type>Hotel</type>
+<name>Ronda Lesseps</name>
+<hotel.addr.1>c/ Ballester, 77-81</hotel.addr.1>
+<hotel.addr.2/>
+<hotel.addr.zip>08023</hotel.addr.zip>
+<hotel.addr.city>Barcelona</hotel.addr.city>
+<hotel.addr.state/>
+<hotel.addr.country>Spain</hotel.addr.country>
+<hotel.addr.countrycode>ES</hotel.addr.countrycode>
+<hotel.address>c/ Ballester, 77-81 08023 Barcelona Spain</hotel.address>
+<hotel.mapurl>This feature is deprecated. We apologize for any inconvenience this may cause.</hotel.mapurl>
+<headline>The Hotel Ronda Lesseps is a quiet and familiar establishment, with two beautiful interior terraces full of plants that allow our guests to relax during their stay in our city.</headline>
+<description>The Hotel is located in the metropolitan heart of Barcelona, with very good communication by public transport, very close to the historic district of Gràcia and just at a ten minutes’ walk from Antoni Gaudí's Park Güell. Ronda Lesseps is 4 metro stops from Las Ramblas and close to Placa Lesseps. The hotel has a 24-hour reception, bar, WIFI internet, luggage room and parking. The rooms are equipped with air conditioning, satellite TV, telephone and shower/bath. Rooms descriptions: Superior Room The best room! Modern, cozy and comfortable, itis the ideal room to rest after a long day visiting Barcelona. Equipped with 2-meter viscoelastic mattresses, hydromassage shower, free high-speed Wi-Fi, 42” flat-screen TV with access to the best channels, fridge, water heater with tea and coffee, air conditioning and safe. Deluxe Family Room The largest room, with 2 separate spaces that allow families or friends to have more privacy and better sleep. Equipped with 2-meter viscoelastic mattresses, hydromassage shower, free high-speed Wi-Fi, two 42” flat-screen TVs with access to the best channels, fridge, hot water heater with tea and coffee, air conditioning and safe. Small Ground Floor Room The most economic option, designed for travelers looking for the best deal. Fitted with the same services as our Superior rooms, it’s just a little smaller and located on the ground floor. Equipped with 2-meter viscoelastic mattresses, hydromassage shower, free high-speed Wi-Fi, 42” flat-screen TV with access to the best channels, fridge, hot water heater with tea and coffee, air conditioning and safe. Address: c/ Ballester, 77-81, 08023 Barcelona, Spain</description>
+<resort>Barcelona</resort>
+<destination>Barcelona</destination>
+<themes/>
+<images>
+<image id="21393406">
+<fullSizeImage url="?id=21393406&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393406" height="333" width="500"/>
+</image>
+<image id="21393407">
+<fullSizeImage url="?id=21393407&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393407" height="333" width="500"/>
+</image>
+<image id="21393408">
+<fullSizeImage url="?id=21393408&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393408" height="333" width="500"/>
+</image>
+<image id="21393409">
+<fullSizeImage url="?id=21393409&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393409" height="333" width="500"/>
+</image>
+<image id="21393410">
+<fullSizeImage url="?id=21393410&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393410" height="333" width="500"/>
+</image>
+<image id="21393411">
+<fullSizeImage url="?id=21393411&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393411" height="333" width="500"/>
+</image>
+<image id="21393412">
+<fullSizeImage url="?id=21393412&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393412" height="333" width="500"/>
+</image>
+<image id="21393413">
+<fullSizeImage url="?id=21393413&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393413" height="333" width="500"/>
+</image>
+<image id="21393414">
+<fullSizeImage url="?id=21393414&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393414" height="333" width="500"/>
+</image>
+<image id="21393415">
+<fullSizeImage url="?id=21393415&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393415" height="333" width="500"/>
+</image>
+<image id="21393416">
+<fullSizeImage url="?id=21393416&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393416" height="333" width="500"/>
+</image>
+<image id="21393417">
+<fullSizeImage url="?id=21393417&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393417" height="333" width="500"/>
+</image>
+<image id="21393418">
+<fullSizeImage url="?id=21393418&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393418" height="333" width="500"/>
+</image>
+<image id="21393419">
+<fullSizeImage url="?id=21393419&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393419" height="333" width="500"/>
+</image>
+<image id="21393420">
+<fullSizeImage url="?id=21393420&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393420" height="333" width="500"/>
+</image>
+<image id="21393421">
+<fullSizeImage url="?id=21393421&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393421" height="333" width="500"/>
+</image>
+<image id="21393422">
+<fullSizeImage url="?id=21393422&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393422" height="333" width="500"/>
+</image>
+<image id="21393423">
+<fullSizeImage url="?id=21393423&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393423" height="333" width="500"/>
+</image>
+<image id="21393424">
+<fullSizeImage url="?id=21393424&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393424" height="333" width="500"/>
+</image>
+<image id="21393425">
+<fullSizeImage url="?id=21393425&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393425" height="333" width="500"/>
+</image>
+<image id="21393426">
+<fullSizeImage url="?id=21393426&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393426" height="333" width="500"/>
+</image>
+<image id="21393427">
+<fullSizeImage url="?id=21393427&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393427" height="333" width="500"/>
+</image>
+<image id="21393428">
+<fullSizeImage url="?id=21393428&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393428" height="333" width="500"/>
+</image>
+<image id="21393429">
+<fullSizeImage url="?id=21393429&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393429" height="333" width="500"/>
+</image>
+<image id="21393430">
+<fullSizeImage url="?id=21393430&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393430" height="333" width="500"/>
+</image>
+<image id="21393431">
+<fullSizeImage url="?id=21393431&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393431" height="333" width="500"/>
+</image>
+<image id="21393432">
+<fullSizeImage url="?id=21393432&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393432" height="333" width="500"/>
+</image>
+<image id="21393433">
+<fullSizeImage url="?id=21393433&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393433" height="333" width="500"/>
+</image>
+<image id="21393434">
+<fullSizeImage url="?id=21393434&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393434" height="333" width="500"/>
+</image>
+<image id="21393435">
+<fullSizeImage url="?id=21393435&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393435" height="333" width="500"/>
+</image>
+<image id="21393436">
+<fullSizeImage url="?id=21393436&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393436" height="333" width="500"/>
+</image>
+<image id="21393437">
+<fullSizeImage url="?id=21393437&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393437" height="333" width="500"/>
+</image>
+<image id="21393438">
+<fullSizeImage url="?id=21393438&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393438" height="333" width="500"/>
+</image>
+<image id="21393439">
+<fullSizeImage url="?id=21393439&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393439" height="333" width="500"/>
+</image>
+<image id="21393440">
+<fullSizeImage url="?id=21393440&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393440" height="333" width="500"/>
+</image>
+<image id="21393441">
+<fullSizeImage url="?id=21393441&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393441" height="333" width="500"/>
+</image>
+<image id="21393442">
+<fullSizeImage url="?id=21393442&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393442" height="333" width="500"/>
+</image>
+<image id="21393539">
+<fullSizeImage url="?id=21393539&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393539" height="333" width="500"/>
+</image>
+<image id="21393540">
+<fullSizeImage url="?id=21393540&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393540" height="333" width="500"/>
+</image>
+<image id="21393541">
+<fullSizeImage url="?id=21393541&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393541" height="333" width="500"/>
+</image>
+<image id="21393542">
+<fullSizeImage url="?id=21393542&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393542" height="333" width="500"/>
+</image>
+<image id="21393543">
+<fullSizeImage url="?id=21393543&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393543" height="333" width="500"/>
+</image>
+<image id="21393544">
+<fullSizeImage url="?id=21393544&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393544" height="333" width="500"/>
+</image>
+<image id="21393545">
+<fullSizeImage url="?id=21393545&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393545" height="333" width="500"/>
+</image>
+<image id="21393546">
+<fullSizeImage url="?id=21393546&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393546" height="333" width="500"/>
+</image>
+<image id="21393547">
+<fullSizeImage url="?id=21393547&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393547" height="333" width="500"/>
+</image>
+<image id="21393548">
+<fullSizeImage url="?id=21393548&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393548" height="333" width="500"/>
+</image>
+<image id="21393549">
+<fullSizeImage url="?id=21393549&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393549" height="333" width="500"/>
+</image>
+<image id="21393550">
+<fullSizeImage url="?id=21393550&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393550" height="333" width="500"/>
+</image>
+<image id="21393551">
+<fullSizeImage url="?id=21393551&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393551" height="333" width="500"/>
+</image>
+<image id="21393552">
+<fullSizeImage url="?id=21393552&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393552" height="333" width="500"/>
+</image>
+<image id="21393553">
+<fullSizeImage url="?id=21393553&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393553" height="333" width="500"/>
+</image>
+<image id="21393554">
+<fullSizeImage url="?id=21393554&full=1" height="853" width="1280"/>
+<smallImage url="?id=21393554" height="333" width="500"/>
+</image>
+</images>
+<features>
+<feature id="1" name="Air Conditioning"/>
+<feature id="3" name="Bar"/>
+<feature id="4" name="Elevator"/>
+<feature id="7" name="Restaurant"/>
+<feature id="8" name="Safe"/>
+<feature id="10" name="Telephone"/>
+<feature id="11" name="TV"/>
+<feature id="12" name="Wireless internet"/>
+<feature id="43" name="24hr reception"/>
+<feature id="45" name="Breakfast room"/>
+<feature id="47" name="Car parking"/>
+<feature id="48" name="Car parking (chargeable)"/>
+<feature id="50" name="Concierge facilities"/>
+<feature id="51" name="Credit Cards - Amex/Visa/Mastercard"/>
+<feature id="53" name="Disabled facilities"/>
+<feature id="54" name="Free Wi-Fi"/>
+<feature id="60" name="Multilingual staff"/>
+<feature id="61" name="Non-smoking property"/>
+<feature id="68" name="Terrace"/>
+<feature id="69" name="Wheelchair access"/>
+<feature id="202" name="Complimentary newspaper(s)"/>
+<feature id="203" name="Café"/>
+<feature id="207" name="Lounge area"/>
+</features>
+<classification>3</classification>
+<distanceTypes>
+<distanceType>
+<hotelDistanceTypeId>1</hotelDistanceTypeId>
+<description>Beach</description>
+<distances>
+<distance>
+<distanceInMeters>4000</distanceInMeters>
+<placeName xsi:nil="true"/>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+<distanceType>
+<hotelDistanceTypeId>2</hotelDistanceTypeId>
+<description>Centre</description>
+<distances>
+<distance>
+<distanceInMeters>2000</distanceInMeters>
+<placeName xsi:nil="true"/>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+<distanceType>
+<hotelDistanceTypeId>3</hotelDistanceTypeId>
+<description>Airport</description>
+<distances>
+<distance>
+<distanceInMeters>25000</distanceInMeters>
+<placeName>BCN</placeName>
+<coordinates xsi:nil="true"/>
+</distance>
+<distance>
+<distanceInMeters>100000</distanceInMeters>
+<placeName>GRO</placeName>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+</distanceTypes>
+<timeZone>01:00</timeZone>
+<isBestBuy>false</isBestBuy>
+</hotel>
+<hotel xsi:type="StaticHotel">
+<hotel.id>33329</hotel.id>
+<destination_id>695</destination_id>
+<resort_id>186</resort_id>
+<transfer>1</transfer>
+<roomtypes>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>1647</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>67870181</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">18872</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>48895282</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">20950</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Twin/Double room - Comfort</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+<roomtype xsi:type="StaticRoomTypeWithRooms">
+<roomtype.ID>62308</roomtype.ID>
+<rooms>
+<room xsi:type="StaticRoom">
+<id>67877526</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>1</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">19639</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>No meals</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+<room xsi:type="StaticRoom">
+<id>67877604</id>
+<beds>2</beds>
+<extrabeds>0</extrabeds>
+<meals>
+<meal xsi:type="StaticRoomMeal">
+<id>3</id>
+<labelId xsi:nil="true"/>
+<prices>
+<price currency="EUR" paymentMethods="1">21716</price>
+</prices>
+<discount xsi:nil="true"/>
+<name>Breakfast</name>
+<labelText xsi:nil="true"/>
+</meal>
+</meals>
+<cancellation_policies>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline xsi:nil="true"/>
+<percentage>75</percentage>
+<text>In case of cancellation you will be charged with 75% of the total booking value.</text>
+</cancellation_policy>
+<cancellation_policy xsi:type="StaticPercentageCancellationPolicy">
+<deadline>168</deadline>
+<percentage>100</percentage>
+<text>Cancellation made less than 7 days (12:00) prior to the arrival will be charged with 100% of the total booking value.</text>
+</cancellation_policy>
+</cancellation_policies>
+<notes/>
+<isSuperDeal>false</isSuperDeal>
+<isBestBuy>false</isBestBuy>
+<paymentMethods>
+<paymentMethod xsi:type="StaticPaymentMethod" id="1" name="Invoice"/>
+</paymentMethods>
+<features/>
+<themes/>
+</room>
+</rooms>
+<room.type>Double room - Balcony - Gran Via</room.type>
+<sharedRoom>false</sharedRoom>
+<sharedFacilities>false</sharedFacilities>
+</roomtype>
+</roomtypes>
+<notes/>
+<distance xsi:nil="true"/>
+<codes/>
+<type>Hotel</type>
+<name>Sunotel Central</name>
+<hotel.addr.1>Gran Vía, 570</hotel.addr.1>
+<hotel.addr.2/>
+<hotel.addr.zip>08011</hotel.addr.zip>
+<hotel.addr.city>Barcelona</hotel.addr.city>
+<hotel.addr.state/>
+<hotel.addr.country>Spain</hotel.addr.country>
+<hotel.addr.countrycode>ES</hotel.addr.countrycode>
+<hotel.address>Gran Vía, 570 08011 Barcelona Spain</hotel.address>
+<hotel.mapurl>This feature is deprecated. We apologize for any inconvenience this may cause.</hotel.mapurl>
+<headline>Centrally located on Gran Via.</headline>
+<description>Sunotel Central is located just 10 minutes walk from Plaza de Catalunya and 1,5 kilometers from the Congress Center at Plaza Espanya. Facilities include reception, bar, restaurant, conference rooms, WiFi, outdoor Jacuzzi and pool. Rooms with bathroom/shower, hairdryer, telephone, TV, WiFi, minibar and air conditioning. Address: Gran Via 570, 08011 Barcelona, Spain</description>
+<resort>Barcelona</resort>
+<destination>Barcelona</destination>
+<themes/>
+<images>
+<image id="10368197">
+<fullSizeImage url="?id=10368197&full=1" height="1280" width="853"/>
+<smallImage url="?id=10368197" height="500" width="333"/>
+</image>
+<image id="10368198">
+<fullSizeImage url="?id=10368198&full=1" height="853" width="1280"/>
+<smallImage url="?id=10368198" height="333" width="500"/>
+</image>
+<image id="10368199">
+<fullSizeImage url="?id=10368199&full=1" height="853" width="1280"/>
+<smallImage url="?id=10368199" height="333" width="500"/>
+</image>
+<image id="10368200">
+<fullSizeImage url="?id=10368200&full=1" height="853" width="1280"/>
+<smallImage url="?id=10368200" height="333" width="500"/>
+</image>
+<image id="10368201">
+<fullSizeImage url="?id=10368201&full=1" height="853" width="1280"/>
+<smallImage url="?id=10368201" height="333" width="500"/>
+</image>
+<image id="10368202">
+<fullSizeImage url="?id=10368202&full=1" height="1280" width="853"/>
+<smallImage url="?id=10368202" height="500" width="333"/>
+</image>
+<image id="10368203">
+<fullSizeImage url="?id=10368203&full=1" height="853" width="1280"/>
+<smallImage url="?id=10368203" height="333" width="500"/>
+</image>
+<image id="10368204">
+<fullSizeImage url="?id=10368204&full=1" height="853" width="1280"/>
+<smallImage url="?id=10368204" height="333" width="500"/>
+</image>
+<image id="10368205">
+<fullSizeImage url="?id=10368205&full=1" height="1280" width="853"/>
+<smallImage url="?id=10368205" height="500" width="333"/>
+</image>
+<image id="11247481">
+<fullSizeImage url="?id=11247481&full=1" height="600" width="800"/>
+<smallImage url="?id=11247481" height="375" width="500"/>
+</image>
+<image id="24316779">
+<fullSizeImage url="?id=24316779&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316779" height="333" width="500"/>
+</image>
+<image id="24316780">
+<fullSizeImage url="?id=24316780&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316780" height="333" width="500"/>
+</image>
+<image id="24316781">
+<fullSizeImage url="?id=24316781&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316781" height="333" width="500"/>
+</image>
+<image id="24316782">
+<fullSizeImage url="?id=24316782&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316782" height="333" width="500"/>
+</image>
+<image id="24316783">
+<fullSizeImage url="?id=24316783&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316783" height="333" width="500"/>
+</image>
+<image id="24316784">
+<fullSizeImage url="?id=24316784&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316784" height="333" width="500"/>
+</image>
+<image id="24316786">
+<fullSizeImage url="?id=24316786&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316786" height="333" width="500"/>
+</image>
+<image id="24316787">
+<fullSizeImage url="?id=24316787&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316787" height="333" width="500"/>
+</image>
+<image id="24316788">
+<fullSizeImage url="?id=24316788&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316788" height="333" width="500"/>
+</image>
+<image id="24316789">
+<fullSizeImage url="?id=24316789&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316789" height="333" width="500"/>
+</image>
+<image id="24316790">
+<fullSizeImage url="?id=24316790&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316790" height="333" width="500"/>
+</image>
+<image id="24316791">
+<fullSizeImage url="?id=24316791&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316791" height="333" width="500"/>
+</image>
+<image id="24316792">
+<fullSizeImage url="?id=24316792&full=1" height="853" width="1280"/>
+<smallImage url="?id=24316792" height="333" width="500"/>
+</image>
+<image id="24317093">
+<fullSizeImage url="?id=24317093&full=1" height="1280" width="853"/>
+<smallImage url="?id=24317093" height="500" width="333"/>
+</image>
+<image id="24317094">
+<fullSizeImage url="?id=24317094&full=1" height="853" width="1280"/>
+<smallImage url="?id=24317094" height="333" width="500"/>
+</image>
+<image id="24317095">
+<fullSizeImage url="?id=24317095&full=1" height="853" width="1280"/>
+<smallImage url="?id=24317095" height="333" width="500"/>
+</image>
+<image id="24317096">
+<fullSizeImage url="?id=24317096&full=1" height="853" width="1280"/>
+<smallImage url="?id=24317096" height="333" width="500"/>
+</image>
+<image id="24317097">
+<fullSizeImage url="?id=24317097&full=1" height="853" width="1280"/>
+<smallImage url="?id=24317097" height="333" width="500"/>
+</image>
+<image id="24317098">
+<fullSizeImage url="?id=24317098&full=1" height="853" width="1280"/>
+<smallImage url="?id=24317098" height="333" width="500"/>
+</image>
+<image id="24317099">
+<fullSizeImage url="?id=24317099&full=1" height="853" width="1280"/>
+<smallImage url="?id=24317099" height="333" width="500"/>
+</image>
+<image id="24317100">
+<fullSizeImage url="?id=24317100&full=1" height="853" width="1280"/>
+<smallImage url="?id=24317100" height="333" width="500"/>
+</image>
+<image id="24317101">
+<fullSizeImage url="?id=24317101&full=1" height="853" width="1280"/>
+<smallImage url="?id=24317101" height="333" width="500"/>
+</image>
+<image id="24317102">
+<fullSizeImage url="?id=24317102&full=1" height="853" width="1280"/>
+<smallImage url="?id=24317102" height="333" width="500"/>
+</image>
+<image id="24317103">
+<fullSizeImage url="?id=24317103&full=1" height="853" width="1280"/>
+<smallImage url="?id=24317103" height="333" width="500"/>
+</image>
+<image id="24317104">
+<fullSizeImage url="?id=24317104&full=1" height="853" width="1280"/>
+<smallImage url="?id=24317104" height="333" width="500"/>
+</image>
+</images>
+<features>
+<feature id="1" name="Air Conditioning"/>
+<feature id="3" name="Bar"/>
+<feature id="4" name="Elevator"/>
+<feature id="5" name="Pool"/>
+<feature id="7" name="Restaurant"/>
+<feature id="8" name="Safe"/>
+<feature id="10" name="Telephone"/>
+<feature id="11" name="TV"/>
+<feature id="12" name="Wireless internet"/>
+<feature id="42" name="24hr check-in"/>
+<feature id="58" name="Ironing facilities"/>
+<feature id="59" name="Laundry facilities"/>
+</features>
+<classification>4</classification>
+<distanceTypes>
+<distanceType>
+<hotelDistanceTypeId>1</hotelDistanceTypeId>
+<description>Beach</description>
+<distances>
+<distance>
+<distanceInMeters>6000</distanceInMeters>
+<placeName xsi:nil="true"/>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+<distanceType>
+<hotelDistanceTypeId>2</hotelDistanceTypeId>
+<description>Centre</description>
+<distances>
+<distance>
+<distanceInMeters>700</distanceInMeters>
+<placeName xsi:nil="true"/>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+<distanceType>
+<hotelDistanceTypeId>3</hotelDistanceTypeId>
+<description>Airport</description>
+<distances>
+<distance>
+<distanceInMeters>15000</distanceInMeters>
+<placeName>BCN</placeName>
+<coordinates xsi:nil="true"/>
+</distance>
+</distances>
+</distanceType>
+</distanceTypes>
+<timeZone>01:00</timeZone>
+<isBestBuy>false</isBestBuy>
+</hotel>
+</hotels>
+</searchresult>

@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="cgapp logo" src="https://raw.githubusercontent.com/CossyCossy/liyana-hotel/master/src/assets/gitimages/react.png" width="224px"/><br/>
+  Liyana Web App
+</h1>
+<p align="center">Liyana Hotel is a simple web app that shows how to make an api call to Sun Hotels search api and be able to search for available accomodation in a given destination with several query parameters. Additionally, since the Sun Hotels APIs are SOAP based i.e XML, the project also shows how to consume soap results and convert them into readable json format. The web app has been built using <b>React</b> and <b>Tailwind Css</b>.</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><a href="https://docs.expo.dev/get-started/create-a-new-app/" 
+target="_blank"><img src="https://img.shields.io/badge/React-%5E18.2.1-00ADD8?style=for-the-badge&logo=react" alt="react version" /></a>&nbsp;
+<a href="https://reactnative.dev/" 
+target="_blank"><img src="https://img.shields.io/badge/Tailwind%20Css-v1-red?style=for-the-badge&logo=tailwindcss&logoColor=blue" alt="tailwind css version" />
+ </p>
 
-## Available Scripts
+ <br />
 
-In the project directory, you can run:
+# 🧐 Project Design
 
-### `npm start`
+- Screen one
+<div align="row">
+<img alt="cgapp logo" src="https://raw.githubusercontent.com/CossyCossy/liyana-hotel/master/src/assets/gitimages/1.png"  width="800px" height="400px"/>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Screen two
+<div align="row">
+<img alt="cgapp logo" src="https://raw.githubusercontent.com/CossyCossy/liyana-hotel/master/src/assets/gitimages/2.png"  width="800px" height="400px"/>
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# 📒 Getting Started
+This project was build using React [React](https://reactjs.org/docs/create-a-new-react-app.html) and [Tailwind Css](https://tailwindcss.com/docs/guides/create-react-app)
 
-### `npm test`
+Clone the repository:
+```
+$ git clone https://github.com/CossyCossy/liyana-hotel.git
+```
+Get into project directory:
+```
+$ cd liyana-hotel/
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Install the project dependancies:
+``` 
+$ npm install
+```
+This will install all the project dependencies.
 
-### `npm run build`
+Run the project:
+``` 
+$ npm start
+```
+This will run the app in the development mode. Open [http://localhost:3000](http://localhost:3000)) to view it in your browser.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 👨‍💻 Tech stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Here's a brief overview of the tech stack the app is built on.:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- 🚨This project uses the [React](https://reactjs.org/docs/create-a-new-react-app.html) and [Tailwind Css](https://tailwindcss.com/docs/guides/create-react-app).
 
-### `npm run eject`
+# ✍️ Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Interested in contributing to the Liyana Hotel Web App project? Thanks so much for your interest! We are always looking for improvements to the project and contributions from open-source developers are greatly appreciated.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# 🌟 Spread the word!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+If you want to say thank you and/or support active development of the Liyana Hotel Web App:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Add a GitHub Star to the project!
+- Check out our website [Crunch Garage](https://crunchgarage.com/) and [GitHub](https://github.com/Crunch-Garage)
+ 
 
-## Learn More
+Thanks so much for your interest in growing the reach of the Liyana Hotel Web app!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+_**PS:** consider sharing and following our organization ([Crunch Garage](https://github.com/Crunch-Garage)) to continue the development of this project on [Liyana Hotel Web App](https://github.com/CossyCossy/liyana-hotel) :)_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# ⚠️ License
 
-### Code Splitting
+The Liyana Hotel Web App project is free and open-source software licensed under the GNU General Public License v3.0. All designs were created by [Crunch Garage](https://crunchgarage.com/) and distributed under [MIT](./LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+# 🥷 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Cosmas Mbuvi | [Crunch Garage Homepage](https://crunchgarage.com)
 
-### Making a Progressive Web App
+# 🍾 Cheers!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Reminder that *you are great, you are enough, and your presence is valued.* If you are struggling with your mental health, please reach out to someone you love and consult a professional. [There are many resources for you to get help in a time of need.](https://www.nimh.nih.gov/health/find-help)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
